@@ -1,0 +1,962 @@
+{
+  "assets/products/25d631-tipodos.webp": {
+    "width": 495,
+    "height": 261
+  },
+  "assets/products/84700f-cricchettiganciestremita.webp": {
+    "width": 215,
+    "height": 156
+  },
+  "assets/products/0437ac-10.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/64a677-03.webp": {
+    "width": 2448,
+    "height": 1836
+  },
+  "assets/products/236d5a-08.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/98f0ce-fasce-strato-doppio-2.webp": {
+    "width": 560,
+    "height": 223
+  },
+  "assets/products/0ede96-menu-tre.webp": {
+    "width": 254,
+    "height": 200
+  },
+  "assets/products/724b6c-base0003.webp": {
+    "width": 641,
+    "height": 24
+  },
+  "assets/products/9a8195-122.webp": {
+    "width": 240,
+    "height": 149
+  },
+  "assets/products/14d376-130.webp": {
+    "width": 238,
+    "height": 151
+  },
+  "assets/products/61d20a-anellidisdoppio.webp": {
+    "width": 142,
+    "height": 153
+  },
+  "assets/products/98e7a4-fasce-ultra.webp": {
+    "width": 825,
+    "height": 538
+  },
+  "assets/products/9ef369-119.webp": {
+    "width": 240,
+    "height": 152
+  },
+  "assets/products/9cf6a2-linea-vita.webp": {
+    "width": 568,
+    "height": 360
+  },
+  "assets/products/010eea-140.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/1e7c0f-01.webp": {
+    "width": 918,
+    "height": 1224
+  },
+  "assets/products/paraspigoli-per-nastro-n-251-photo.webp": {
+    "width": 121,
+    "height": 101
+  },
+  "assets/products/a7eba5-06.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/aa1ce7-campanelle.webp": {
+    "width": 120,
+    "height": 205
+  },
+  "assets/products/fd1b6a-b1.webp": {
+    "width": 250,
+    "height": 67
+  },
+  "assets/products/e39c62-hb2.webp": {
+    "width": 350,
+    "height": 180
+  },
+  "assets/products/fb2c9e-cn4g-scheda.webp": {
+    "width": 201,
+    "height": 276
+  },
+  "assets/products/parte-metallica-111-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/c882eb-tiposos.webp": {
+    "width": 466,
+    "height": 250
+  },
+  "assets/products/parte-metallica-126-photo.webp": {
+    "width": 120,
+    "height": 124
+  },
+  "assets/products/0db3a1-104-105.webp": {
+    "width": 243,
+    "height": 166
+  },
+  "assets/products/bab2ab-02.webp": {
+    "width": 2448,
+    "height": 1836
+  },
+  "assets/products/parte-metallica-144-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/d6fdf6-15.webp": {
+    "width": 1224,
+    "height": 918
+  },
+  "assets/products/13e55e-zaq1.webp": {
+    "width": 262,
+    "height": 500
+  },
+  "assets/products/9a5cb0-13.webp": {
+    "width": 1224,
+    "height": 918
+  },
+  "assets/products/8619a2-ganci-clevis.webp": {
+    "width": 514,
+    "height": 140
+  },
+  "assets/products/21de0a-base0004.webp": {
+    "width": 104,
+    "height": 76
+  },
+  "assets/products/781ada-guni.webp": {
+    "width": 248,
+    "height": 304
+  },
+  "assets/products/0e0d2a-img-top.webp": {
+    "width": 760,
+    "height": 223
+  },
+  "assets/products/pinza-per-lamiere-nph-photo.webp": {
+    "width": 281,
+    "height": 356
+  },
+  "assets/products/parte-metallica-108-photo.webp": {
+    "width": 121,
+    "height": 118
+  },
+  "assets/products/c8d315-143.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/a01bcd-ancoraggiomotociclette.webp": {
+    "width": 215,
+    "height": 156
+  },
+  "assets/products/8bd8df-01.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/b44724-cricchetto28a.webp": {
+    "width": 215,
+    "height": 156
+  },
+  "assets/products/e18a25-cn2g.webp": {
+    "width": 201,
+    "height": 265
+  },
+  "assets/products/parte-metallica-123-photo.webp": {
+    "width": 116,
+    "height": 119
+  },
+  "assets/products/parte-metallica-114-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/parte-metallica-141-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/8c52c3-102.webp": {
+    "width": 248,
+    "height": 154
+  },
+  "assets/products/9e4247-12.webp": {
+    "width": 100,
+    "height": 133
+  },
+  "assets/products/bd80ff-ganci-accorciatori.webp": {
+    "width": 522,
+    "height": 162
+  },
+  "assets/products/parte-metallica-132-photo.webp": {
+    "width": 119,
+    "height": 119
+  },
+  "assets/products/12b42d-f3.webp": {
+    "width": 320,
+    "height": 424
+  },
+  "assets/products/c352c4-tendicatena.webp": {
+    "width": 512,
+    "height": 222
+  },
+  "assets/products/tirante-in-catena-sos-photo.webp": {
+    "width": 132,
+    "height": 214
+  },
+  "assets/products/parte-metallica-119-photo.webp": {
+    "width": 117,
+    "height": 118
+  },
+  "assets/products/8f70d5-fasce-ultra1.webp": {
+    "width": 495,
+    "height": 452
+  },
+  "assets/products/guaina-tubolare-gommata-photo.webp": {
+    "width": 140,
+    "height": 129
+  },
+  "assets/products/ee6d99-campanellecomposte.webp": {
+    "width": 177,
+    "height": 176
+  },
+  "assets/products/4d02f1-g209.webp": {
+    "width": 276,
+    "height": 316
+  },
+  "assets/products/234a2b-06.webp": {
+    "width": 2448,
+    "height": 1836
+  },
+  "assets/products/42cbe5-05.webp": {
+    "width": 2448,
+    "height": 1836
+  },
+  "assets/products/c408be-14.webp": {
+    "width": 918,
+    "height": 1224
+  },
+  "assets/products/17e1a1-ce.webp": {
+    "width": 32,
+    "height": 30
+  },
+  "assets/products/d47d80-fiore.webp": {
+    "width": 10,
+    "height": 10
+  },
+  "assets/products/90b83a-base0006.webp": {
+    "width": 1,
+    "height": 6
+  },
+  "assets/products/69ad70-112.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/75d237-11.webp": {
+    "width": 576,
+    "height": 768
+  },
+  "assets/products/5f760f-07.webp": {
+    "width": 2448,
+    "height": 1836
+  },
+  "assets/products/697aca-04.webp": {
+    "width": 2448,
+    "height": 1836
+  },
+  "assets/products/4491cb-146.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/18362a-f2.webp": {
+    "width": 300,
+    "height": 234
+  },
+  "assets/products/392c67-07.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/parte-metallica-102-photo.webp": {
+    "width": 124,
+    "height": 120
+  },
+  "assets/products/c8b93e-02.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/parte-metallica-124-photo.webp": {
+    "width": 119,
+    "height": 117
+  },
+  "assets/products/parte-metallica-113-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/c01c63-01.webp": {
+    "width": 100,
+    "height": 133
+  },
+  "assets/products/f5ebde-144.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/parte-metallica-146-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/b6feae-ganci-self-locking-clevis.webp": {
+    "width": 513,
+    "height": 125
+  },
+  "assets/products/654973-tiranti1braccio.webp": {
+    "width": 63,
+    "height": 262
+  },
+  "assets/products/abc76b-cric1.webp": {
+    "width": 300,
+    "height": 108
+  },
+  "assets/products/4639e1-11.webp": {
+    "width": 100,
+    "height": 133
+  },
+  "assets/products/782118-134.webp": {
+    "width": 236,
+    "height": 162
+  },
+  "assets/products/e1029c-clamp1.webp": {
+    "width": 1020,
+    "height": 91
+  },
+  "assets/products/ba7d16-nastri-colorati-nuova.webp": {
+    "width": 567,
+    "height": 320
+  },
+  "assets/products/ccfeaf-gt1.webp": {
+    "width": 500,
+    "height": 410
+  },
+  "assets/products/2b3f1f-anel2.webp": {
+    "width": 400,
+    "height": 334
+  },
+  "assets/products/379057-cartup.webp": {
+    "width": 264,
+    "height": 157
+  },
+  "assets/products/05f68e-spaziatore.webp": {
+    "width": 1,
+    "height": 1
+  },
+  "assets/products/parte-metallica-116-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/parte-metallica-121-photo.webp": {
+    "width": 117,
+    "height": 116
+  },
+  "assets/products/491e99-02.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/9de2db-cric4.webp": {
+    "width": 150,
+    "height": 200
+  },
+  "assets/products/parte-metallica-143-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/82c937-menu-uno.webp": {
+    "width": 254,
+    "height": 200
+  },
+  "assets/products/3e787e-ganci-fonderie.webp": {
+    "width": 518,
+    "height": 163
+  },
+  "assets/products/pinza-per-lamiere-np-photo.webp": {
+    "width": 361,
+    "height": 411
+  },
+  "assets/products/98317b-cricchetto2.webp": {
+    "width": 503,
+    "height": 297
+  },
+  "assets/products/043294-pendenti.webp": {
+    "width": 514,
+    "height": 297
+  },
+  "assets/products/c132a4-132.webp": {
+    "width": 238,
+    "height": 153
+  },
+  "assets/products/1a18c5-133.webp": {
+    "width": 240,
+    "height": 159
+  },
+  "assets/products/4d3a2d-14.webp": {
+    "width": 100,
+    "height": 133
+  },
+  "assets/products/47a5ba-115.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/aba094-111.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/0c9a50-tiranti2bracci.webp": {
+    "width": 156,
+    "height": 265
+  },
+  "assets/products/43cf30-128-129.webp": {
+    "width": 237,
+    "height": 154
+  },
+  "assets/products/parte-metallica-130-photo.webp": {
+    "width": 119,
+    "height": 117
+  },
+  "assets/products/parte-metallica-107-photo.webp": {
+    "width": 118,
+    "height": 121
+  },
+  "assets/products/5d5c6e-124.webp": {
+    "width": 238,
+    "height": 149
+  },
+  "assets/products/a3b364-117.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/7d0d40-13.webp": {
+    "width": 100,
+    "height": 100
+  },
+  "assets/products/dfc2e7-tiranti1.webp": {
+    "width": 499,
+    "height": 364
+  },
+  "assets/products/cc71d5-traini.webp": {
+    "width": 215,
+    "height": 156
+  },
+  "assets/products/931d05-147.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/parte-metallica-109-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/0567ce-laumas.webp": {
+    "width": 333,
+    "height": 137
+  },
+  "assets/products/453a1d-portata-in-kg.webp": {
+    "width": 560,
+    "height": 370
+  },
+  "assets/products/d1f5e6-base0002.webp": {
+    "width": 14,
+    "height": 76
+  },
+  "assets/products/4b175f-cricchettiganci.webp": {
+    "width": 215,
+    "height": 156
+  },
+  "assets/products/401d33-ganci322c.webp": {
+    "width": 83,
+    "height": 251
+  },
+  "assets/products/4feedf-05.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/parte-metallica-122-photo.webp": {
+    "width": 120,
+    "height": 117
+  },
+  "assets/products/parte-metallica-115-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/parte-metallica-140-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/c159d4-tipoqos.webp": {
+    "width": 515,
+    "height": 227
+  },
+  "assets/products/fe1903-cng.webp": {
+    "width": 168,
+    "height": 262
+  },
+  "assets/products/7dfd46-123.webp": {
+    "width": 238,
+    "height": 153
+  },
+  "assets/products/945995-09.webp": {
+    "width": 100,
+    "height": 133
+  },
+  "assets/products/b1c0c1-ac322.webp": {
+    "width": 350,
+    "height": 251
+  },
+  "assets/products/c6b1ab-03.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/1be7ba-15.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/ecdb90-139.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/cuscinetti-in-poliestere-n-252-photo.webp": {
+    "width": 121,
+    "height": 101
+  },
+  "assets/products/e12691-12.webp": {
+    "width": 918,
+    "height": 1224
+  },
+  "assets/products/f71cf4-f1.webp": {
+    "width": 320,
+    "height": 453
+  },
+  "assets/products/parte-metallica-104-photo.webp": {
+    "width": 119,
+    "height": 130
+  },
+  "assets/products/6d32b6-118.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/parte-metallica-133-photo.webp": {
+    "width": 117,
+    "height": 124
+  },
+  "assets/products/parte-metallica-118-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/7258f9-maglie-giunzione.webp": {
+    "width": 525,
+    "height": 178
+  },
+  "assets/products/173855-108.webp": {
+    "width": 241,
+    "height": 152
+  },
+  "assets/products/466a12-fbc.webp": {
+    "width": 500,
+    "height": 317
+  },
+  "assets/products/parte-metallica-101-photo.webp": {
+    "width": 119,
+    "height": 118
+  },
+  "assets/products/8a7242-110.webp": {
+    "width": 244,
+    "height": 152
+  },
+  "assets/products/1f3bcd-ce.webp": {
+    "width": 34,
+    "height": 32
+  },
+  "assets/products/fe63e2-menu-due.webp": {
+    "width": 254,
+    "height": 200
+  },
+  "assets/products/96d0f7-ancoraggiomotocicletteam.webp": {
+    "width": 215,
+    "height": 156
+  },
+  "assets/products/129dd4-clamp3.webp": {
+    "width": 1024,
+    "height": 453
+  },
+  "assets/products/cbac83-fasce-strato-doppio-1.webp": {
+    "width": 560,
+    "height": 261
+  },
+  "assets/products/82a9cc-tiranti4bracci.webp": {
+    "width": 173,
+    "height": 276
+  },
+  "assets/products/4bdb1c-clamp4.webp": {
+    "width": 1021,
+    "height": 581
+  },
+  "assets/products/5159c6-141-142.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/cfeddc-anelli1.webp": {
+    "width": 163,
+    "height": 200
+  },
+  "assets/products/da9fd6-hb1.webp": {
+    "width": 350,
+    "height": 82
+  },
+  "assets/products/2bc3fc-127.webp": {
+    "width": 243,
+    "height": 154
+  },
+  "assets/products/1a87f8-08.webp": {
+    "width": 2448,
+    "height": 1836
+  },
+  "assets/products/paraspigoli-per-nastro-n-250-photo.webp": {
+    "width": 119,
+    "height": 99
+  },
+  "assets/products/tirante-in-catena-dos-photo.webp": {
+    "width": 199,
+    "height": 229
+  },
+  "assets/products/378757-fattexd.webp": {
+    "width": 578,
+    "height": 50
+  },
+  "assets/products/29ff75-10.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/7f48b6-107.webp": {
+    "width": 242,
+    "height": 155
+  },
+  "assets/products/9f8696-113.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/d98df6-por.webp": {
+    "width": 667,
+    "height": 414
+  },
+  "assets/products/2dff42-rud-1.webp": {
+    "width": 729,
+    "height": 174
+  },
+  "assets/products/d19e13-f4.webp": {
+    "width": 300,
+    "height": 398
+  },
+  "assets/products/76ae94-13.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/d504be-ancoraggiobz25.webp": {
+    "width": 215,
+    "height": 156
+  },
+  "assets/products/c0152f-fune-ad-anello.webp": {
+    "width": 559,
+    "height": 184
+  },
+  "assets/products/433fa6-anellidissingolo.webp": {
+    "width": 142,
+    "height": 156
+  },
+  "assets/products/parte-metallica-110-photo.webp": {
+    "width": 122,
+    "height": 118
+  },
+  "assets/products/parte-metallica-127-photo.webp": {
+    "width": 119,
+    "height": 120
+  },
+  "assets/products/3b389c-101.webp": {
+    "width": 243,
+    "height": 152
+  },
+  "assets/products/parte-metallica-145-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/parte-metallica-117-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/6b38ee-114.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/parte-metallica-120-photo.webp": {
+    "width": 120,
+    "height": 117
+  },
+  "assets/products/62865f-grilliuni.webp": {
+    "width": 98,
+    "height": 304
+  },
+  "assets/products/c4340f-fb1.webp": {
+    "width": 567,
+    "height": 128
+  },
+  "assets/products/pinza-per-lamiere-npu-photo.webp": {
+    "width": 269,
+    "height": 403
+  },
+  "assets/products/0bcb65-catena.webp": {
+    "width": 521,
+    "height": 184
+  },
+  "assets/products/770d57-gt2.webp": {
+    "width": 500,
+    "height": 251
+  },
+  "assets/products/55ae77-109.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/3c233f-04.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/c8c38a-ganci-self-locking-occhio.webp": {
+    "width": 511,
+    "height": 130
+  },
+  "assets/products/0cc357-10.webp": {
+    "width": 2448,
+    "height": 1836
+  },
+  "assets/products/ae0a27-ganci320c.webp": {
+    "width": 149,
+    "height": 251
+  },
+  "assets/products/425078-offerta-top.webp": {
+    "width": 381,
+    "height": 146
+  },
+  "assets/products/a22433-grillicuore.webp": {
+    "width": 114,
+    "height": 316
+  },
+  "assets/products/726706-idea-scale.webp": {
+    "width": 187,
+    "height": 187
+  },
+  "assets/products/db18e3-cricchetto.webp": {
+    "width": 502,
+    "height": 314
+  },
+  "assets/products/91942c-cartdw.webp": {
+    "width": 264,
+    "height": 149
+  },
+  "assets/products/de2f23-03.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/c14d8f-07.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/f8e63e-116.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/fad9bf-email.webp": {
+    "width": 250,
+    "height": 50
+  },
+  "assets/products/d7a2d4-cn.webp": {
+    "width": 241,
+    "height": 205
+  },
+  "assets/products/ab6dc5-tiranti.webp": {
+    "width": 500,
+    "height": 398
+  },
+  "assets/products/cdf623-126.webp": {
+    "width": 239,
+    "height": 159
+  },
+  "assets/products/1360da-09.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/ba0ac7-fasce-strato-semplice-1.webp": {
+    "width": 560,
+    "height": 220
+  },
+  "assets/products/5e9de9-cricchetto1.webp": {
+    "width": 502,
+    "height": 154
+  },
+  "assets/products/b82090-fasce-strato-quadruplo.webp": {
+    "width": 560,
+    "height": 304
+  },
+  "assets/products/749480-cric3.webp": {
+    "width": 270,
+    "height": 150
+  },
+  "assets/products/73dd02-131.webp": {
+    "width": 240,
+    "height": 150
+  },
+  "assets/products/994125-tirantiscorsoio.webp": {
+    "width": 136,
+    "height": 336
+  },
+  "assets/products/a32791-04.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/6b57ff-125.webp": {
+    "width": 239,
+    "height": 162
+  },
+  "assets/products/cc90f2-base0005.webp": {
+    "width": 257,
+    "height": 23
+  },
+  "assets/products/17d5b1-106.webp": {
+    "width": 242,
+    "height": 151
+  },
+  "assets/products/b60fd9-ancoraggioursus.webp": {
+    "width": 215,
+    "height": 156
+  },
+  "assets/products/parte-metallica-131-photo.webp": {
+    "width": 117,
+    "height": 117
+  },
+  "assets/products/parte-metallica-106-photo.webp": {
+    "width": 121,
+    "height": 117
+  },
+  "assets/products/tirante-in-catena-qos-photo.webp": {
+    "width": 243,
+    "height": 206
+  },
+  "assets/products/6094db-06.webp": {
+    "width": 133,
+    "height": 100
+  },
+  "assets/products/parte-metallica-128-photo.webp": {
+    "width": 119,
+    "height": 120
+  },
+  "assets/products/101722-zaq2.webp": {
+    "width": 278,
+    "height": 550
+  },
+  "assets/products/49b56c-08.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/01a1b7-11.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/9768ea-cnt.webp": {
+    "width": 289,
+    "height": 176
+  },
+  "assets/products/parte-metallica-134-photo.webp": {
+    "width": 118,
+    "height": 127
+  },
+  "assets/products/1ad0ea-b3.webp": {
+    "width": 250,
+    "height": 67
+  },
+  "assets/products/894346-cps-scheda.webp": {
+    "width": 167,
+    "height": 336
+  },
+  "assets/products/37f58a-145.webp": {
+    "width": 241,
+    "height": 156
+  },
+  "assets/products/2c5674-05.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/products/guaina-tubolare-in-poliuretano-photo.webp": {
+    "width": 143,
+    "height": 130
+  },
+  "assets/products/ee5670-120.webp": {
+    "width": 240,
+    "height": 150
+  },
+  "assets/products/20824c-clamp2.webp": {
+    "width": 1026,
+    "height": 491
+  },
+  "assets/products/parte-metallica-125-photo.webp": {
+    "width": 117,
+    "height": 127
+  },
+  "assets/products/parte-metallica-112-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/8b0a06-b2.webp": {
+    "width": 250,
+    "height": 68
+  },
+  "assets/products/parte-metallica-147-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/parte-metallica-139-photo.webp": {
+    "width": 118,
+    "height": 122
+  },
+  "assets/products/0a6ef2-rud-2.webp": {
+    "width": 120,
+    "height": 120
+  },
+  "assets/products/470cd1-09.webp": {
+    "width": 1836,
+    "height": 2448
+  },
+  "assets/products/8afb73-121.webp": {
+    "width": 239,
+    "height": 148
+  },
+  "assets/products/708651-14.webp": {
+    "width": 101,
+    "height": 101
+  },
+  "assets/company/gallery-05.webp": {
+    "width": 1700,
+    "height": 1275
+  },
+  "assets/company/gallery-13.webp": {
+    "width": 1224,
+    "height": 918
+  },
+  "assets/company/gallery-15.webp": {
+    "width": 1224,
+    "height": 918
+  },
+  "assets/company/gallery-02.webp": {
+    "width": 1700,
+    "height": 1275
+  },
+  "assets/products/cricchetti-a-fotografia.webp": {
+    "width": 422,
+    "height": 217
+  }
+}

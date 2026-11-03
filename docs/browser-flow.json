@@ -1,0 +1,112 @@
+{
+  "verifiedAt": "2026-10-31",
+  "search": {
+    "query": "cricchetto",
+    "results": 19,
+    "emptyQuery": "zzzzzz",
+    "emptyResults": 0,
+    "resetResults": 103
+  },
+  "category": {
+    "id": "cricchetti",
+    "results": 5
+  },
+  "mobileSort": {
+    "category": "catene",
+    "results": 11,
+    "sort": "az",
+    "first": "Catena grado 80 N-336"
+  },
+  "applicationFilter": {
+    "group": "Sollevamento tessile",
+    "results": 12,
+    "controlValue": "group:Sollevamento tessile",
+    "clearToAllResults": 103
+  },
+  "homeFamilies": {
+    "all": 8,
+    "tessileVisible": 3,
+    "finalLoadedImages": 8
+  },
+  "selection": {
+    "product": "Fasce in poliestere colorate",
+    "variant": "CEN.D — rosso",
+    "quantity": 3,
+    "persistedAfterReload": true,
+    "includedInSummary": true,
+    "testItemRemoved": true
+  },
+  "menu": {
+    "opens": true,
+    "closesWithEscape": true,
+    "focusReturns": true
+  },
+  "imageZoom": {
+    "opens": true,
+    "closesWithEscape": true
+  },
+  "request": {
+    "copyStatus": "Testo copiato negli appunti.",
+    "downloadFileName": "TENFOR-richiesta.txt",
+    "encodedFilePayloadMatchesSummary": true,
+    "physicalFileSaveObserved": false,
+    "note": "Evento download non restituito dal browser di anteprima; verificato il link completo e il suo contenuto.",
+    "automaticallySent": false,
+    "testFormCleared": true
+  },
+  "finalConsoleErrors": [],
+  "homeSearchRevision": {
+    "verifiedAt": "2026-10-31",
+    "query": "cricchetto",
+    "quickResultCount": 4,
+    "totalResultCount": 19,
+    "arrowDownFocusesFirstResult": true,
+    "emptyQuery": "zzzzzz",
+    "emptyResults": 0,
+    "escapeClears": true,
+    "enterOpensCatalogWithSameQuery": true,
+    "directProductQuery": "N-112",
+    "directProductResultCount": 1,
+    "directProductH1": "Blizzar 50 mm N-112",
+    "mobileDirectProductOpened": true,
+    "heroFigcaptionRemoved": true,
+    "heroAndFigureBackground": "rgb(8, 8, 8)",
+    "transparentCornersAndLoop": true,
+    "viewportsWithoutOverflow": [
+      320,
+      390,
+      768,
+      1440
+    ],
+    "consoleErrors": []
+  },
+  "externalNavigationRemoval": {
+    "verifiedAt": "2026-10-31",
+    "removedLinks": 104,
+    "auditedHtmlPages": 106,
+    "externalTargets": 0,
+    "htmlOriginalDomainOccurrences": 0,
+    "clientCatalogSourceUrls": 0,
+    "productSourceLinkRemoved": true,
+    "productDocumentLocal": true,
+    "informationPageExternalLinks": 0,
+    "provenanceRetainedInSourceFiles": true
+  },
+  "desktopHeroWidth": {
+    "verifiedAt": "2026-10-31",
+    "viewportWidths": [
+      390,
+      768,
+      1024,
+      1440,
+      1708,
+      1920,
+      2560
+    ],
+    "desktopImageRightMatchesViewport": true,
+    "textMatchesSiteGrid": true,
+    "horizontalOverflow": false,
+    "hoverRightEdgeAt1920": 1920,
+    "report": "hero-width-check.json"
+  }
+}

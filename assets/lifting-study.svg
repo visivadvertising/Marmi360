@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="lifting-art" viewBox="0 0 860 860" role="img">
+          <defs>
+            <linearGradient id="strapGrad" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#ff3a2f"/>
+              <stop offset="0.5" stop-color="#d71920"/>
+              <stop offset="1" stop-color="#7c090f"/>
+            </linearGradient>
+            <linearGradient id="metalGrad" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#f5f5f5"/>
+              <stop offset="0.28" stop-color="#777"/>
+              <stop offset="0.5" stop-color="#1c1c1c"/>
+              <stop offset="0.72" stop-color="#9d9d9d"/>
+              <stop offset="1" stop-color="#2e2e2e"/>
+            </linearGradient>
+            <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+              <feGaussianBlur in="SourceAlpha" stdDeviation="14" result="blur"/>
+              <feOffset dy="18" result="offsetBlur"/>
+              <feColorMatrix in="offsetBlur" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .55 0"/>
+              <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+            </filter>
+          </defs>
+          <g class="art-group" filter="url(#softShadow)">
+            <path class="strap strap-back" d="M162 135 C 375 32, 642 143, 630 372 C 620 566, 462 721, 308 680 C 175 646, 171 528, 270 430 C 363 338, 484 288, 516 184" fill="none" stroke="url(#strapGrad)" stroke-width="52" stroke-linecap="round"/>
+            <path class="strap-highlight" d="M171 139 C 378 48, 622 153, 615 366" fill="none" stroke="#ff786f" stroke-opacity=".34" stroke-width="7" stroke-linecap="round"/>
+            <g class="hook" transform="translate(503 330) rotate(18)">
+              <rect x="-20" y="-70" width="40" height="122" rx="20" fill="url(#metalGrad)"/>
+              <path d="M 0 22 C 88 10, 121 70, 92 131 C 69 181, 4 183,-19 141 C -40 102,-12 77,18 91 C 7 108,9 124,25 130 C 52 140,71 111,62 84 C 54 60,31 55,0 61 Z" fill="url(#metalGrad)"/>
+            </g>
+            <g class="chain" transform="translate(217 391) rotate(-28)">
+              <ellipse cx="0" cy="0" rx="29" ry="54" fill="none" stroke="url(#metalGrad)" stroke-width="17"/>
+              <ellipse cx="0" cy="75" rx="29" ry="54" fill="none" stroke="url(#metalGrad)" stroke-width="17" transform="rotate(90 0 75)"/>
+              <ellipse cx="0" cy="150" rx="29" ry="54" fill="none" stroke="url(#metalGrad)" stroke-width="17"/>
+            </g>
+          </g>
+        </svg>

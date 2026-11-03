@@ -1,0 +1,101 @@
+[
+  {
+    "route": "index.html",
+    "brokenLoadedImages": [],
+    "h1": "La forza,\nsotto\ncontrollo.",
+    "height": 844,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "catalogo.html",
+    "brokenLoadedImages": [],
+    "h1": "Trova il tuo\npunto di forza.",
+    "height": 844,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "prodotti/fasce-in-poliestere-colorate.html",
+    "brokenLoadedImages": [],
+    "h1": "Fasce in poliestere colorate",
+    "height": 844,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "informazioni.html",
+    "brokenLoadedImages": [],
+    "h1": "Dati, fonti\ne privacy.",
+    "height": 844,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "index.html",
+    "brokenLoadedImages": [],
+    "h1": "La forza,\nsotto\ncontrollo.",
+    "height": 1024,
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "route": "catalogo.html",
+    "brokenLoadedImages": [],
+    "h1": "Trova il tuo\npunto di forza.",
+    "height": 1024,
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "route": "prodotti/fasce-in-poliestere-colorate.html",
+    "brokenLoadedImages": [],
+    "h1": "Fasce in poliestere colorate",
+    "height": 1024,
+    "scrollWidth": 768,
+    "width": 768,
+    "tableViewportWidth": 427,
+    "tableContentWidth": 580,
+    "recheckedAt": "2026-10-31"
+  },
+  {
+    "route": "informazioni.html",
+    "brokenLoadedImages": [],
+    "h1": "Dati, fonti\ne privacy.",
+    "height": 1024,
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "route": "index.html",
+    "brokenLoadedImages": [],
+    "h1": "La forza,\nsotto\ncontrollo.",
+    "height": 1000,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "catalogo.html",
+    "brokenLoadedImages": [],
+    "h1": "Trova il tuo\npunto di forza.",
+    "height": 1000,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "prodotti/fasce-in-poliestere-colorate.html",
+    "brokenLoadedImages": [],
+    "h1": "Fasce in poliestere colorate",
+    "height": 1000,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "informazioni.html",
+    "brokenLoadedImages": [],
+    "h1": "Dati, fonti\ne privacy.",
+    "height": 1000,
+    "scrollWidth": 1440,
+    "width": 1440
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "captionPresent": false,
+    "headerSearchPresent": true,
+    "height": 844,
+    "heroBackground": "rgb(8, 8, 8)",
+    "heroSource": "assets/hero-red-webbing-cutout.webp",
+    "imageBackground": "rgb(8, 8, 8)",
+    "imageLoaded": true,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "captionPresent": false,
+    "headerSearchPresent": true,
+    "height": 1024,
+    "heroBackground": "rgb(8, 8, 8)",
+    "heroSource": "assets/hero-red-webbing-cutout.webp",
+    "imageBackground": "rgb(8, 8, 8)",
+    "imageLoaded": true,
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "captionPresent": false,
+    "headerSearchPresent": true,
+    "height": 1000,
+    "heroBackground": "rgb(8, 8, 8)",
+    "heroSource": "assets/hero-red-webbing-cutout.webp",
+    "imageBackground": "rgb(8, 8, 8)",
+    "imageLoaded": true,
+    "scrollWidth": 1440,
+    "width": 1440
+  }
+]

@@ -1,0 +1,4812 @@
+{
+  "brand": "Marmi360",
+  "type": "local-brand-concept",
+  "catalogSource": "https://www.nastritalia.it/prodotti.htm",
+  "updatedAt": "2026-10-31",
+  "assets": [
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/140.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7750,
+      "localPath": "assets/products/010eea-140.webp",
+      "sha256": "d4412bd42f95dcc38c25dc506a4bf90e9cb5ecf27ec097cafe408a6e7805b5e0",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/010eea-140.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/11.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2458,
+      "localPath": "assets/products/01a1b7-11.webp",
+      "sha256": "464cf934eb40c3c84d0dd27dcf181c3eb1f820db0de30ad79d167d638ebdeb8c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/01a1b7-11.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_tonde.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/pendenti.bmp",
+      "size": [
+        514,
+        297
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 22180,
+      "localPath": "assets/products/043294-pendenti.webp",
+      "sha256": "57736da6d3d12b7dd2d41fcc7fc48951d463776e2764bd650cc703476e1646a2",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/043294-pendenti.bmp"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/10.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5334,
+      "localPath": "assets/products/0437ac-10.webp",
+      "sha256": "22533f90ea77054364569caba3b94c45e9e5ba757be1c24ffd8b894509316465",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/0437ac-10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/Rivenditore.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/Rivenditore.htm",
+        "https://www.nastritalia.it/rivenditore.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/laumas.jpg",
+      "size": [
+        333,
+        137
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10258,
+      "localPath": "assets/products/0567ce-laumas.webp",
+      "sha256": "ed60a6cb5850bf43a8079a6cdae7bcbbe28a12a64b023625783f3d37a45cae6f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/0567ce-laumas.jpg"
+    },
+    {
+      "localPath": "assets/products/05f68e-spaziatore.webp",
+      "sha256": "ae31c4232d36d7b0ed7cd39ad75d1bf4afa96fae7f71a88d96ce0c666b47154b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "type": "catalog-asset",
+      "note": "Asset già presente nel progetto sorgente; riferimenti delle schede in data/catalog.json."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/Rivenditore.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/Rivenditore.htm",
+        "https://www.nastritalia.it/rivenditore.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/rud_2.jpg",
+      "size": [
+        120,
+        120
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4184,
+      "localPath": "assets/products/0a6ef2-rud-2.webp",
+      "sha256": "dbe31db9e8a60df79fb2848babcf41f947501ed1e6c731b01096ed76ad6875bb",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/0a6ef2-rud-2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/catena.jpg",
+      "size": [
+        521,
+        184
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 24330,
+      "localPath": "assets/products/0bcb65-catena.webp",
+      "sha256": "99a7308b88b7dc2ac364e8340f6ac86f4214d02450fb208b6bf2a0faf44b0797",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/0bcb65-catena.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/tiranti2bracci.gif",
+      "size": [
+        156,
+        265
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5702,
+      "localPath": "assets/products/0c9a50-tiranti2bracci.webp",
+      "sha256": "d1cff7d489389b9cf18f49e4d5fafa1c4414d2e46e99a63e146947eb71eee0fc",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/0c9a50-tiranti2bracci.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/10.jpg",
+      "size": [
+        2448,
+        1836
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 683546,
+      "localPath": "assets/products/0cc357-10.webp",
+      "sha256": "2d32c219c84ebf331190fa96774aead4fce7d1aa7053cadfb44955e9f3db7aec",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/0cc357-10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/104-105.jpg",
+      "size": [
+        243,
+        166
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 12642,
+      "localPath": "assets/products/0db3a1-104-105.webp",
+      "sha256": "eedc565233e3cecdaed109864ca18513326dd509c58ba51ef12d9877af1e8488",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/0db3a1-104-105.jpg"
+    },
+    {
+      "localPath": "assets/products/0e0d2a-img-top.webp",
+      "sha256": "809ad3cbd016c0bad3185cd0ddc59adeab07cb687418d97b33704f42227572b3",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "type": "catalog-asset",
+      "note": "Asset già presente nel progetto sorgente; riferimenti delle schede in data/catalog.json."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/index.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/index.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/menu_tre.jpg",
+      "size": [
+        254,
+        200
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10842,
+      "localPath": "assets/products/0ede96-menu-tre.webp",
+      "sha256": "43a3aee587eba82a1daaae66ecd40ca250f030cc8408be155eca00049525901e",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/0ede96-menu-tre.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_in_acciaio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/zaq2.jpg",
+      "size": [
+        278,
+        550
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 39196,
+      "localPath": "assets/products/101722-zaq2.webp",
+      "sha256": "a08ed1ab0a98e0f8d0f72f509c4777f09208936f331912cc2f36b7bca125e686",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/101722-zaq2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/clamp3.jpg",
+      "size": [
+        1024,
+        453
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 66646,
+      "localPath": "assets/products/129dd4-clamp3.webp",
+      "sha256": "97dd98ba38dfe4794b95759c86b445565a977395eef856bdf2dfb126178caa2e",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/129dd4-clamp3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_in_acciaio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/f3.jpg",
+      "size": [
+        320,
+        424
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 37144,
+      "localPath": "assets/products/12b42d-f3.webp",
+      "sha256": "6b0f16339e3d0e744c3f8545ea743bd3e40184c06d8e596f9a15208fdb6e31d9",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/12b42d-f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/09.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3256,
+      "localPath": "assets/products/1360da-09.webp",
+      "sha256": "7dd8c8916c5b787faa3af702c3f62366e7f8aa1af2dae2d8a7618873b4641867",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/1360da-09.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_in_acciaio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/zaq1.jpg",
+      "size": [
+        262,
+        500
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 41308,
+      "localPath": "assets/products/13e55e-zaq1.webp",
+      "sha256": "98d9dfc3ddabdf513e3a51075c27138f47768013fcc5c9502848c04b1acfe1ea",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/13e55e-zaq1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/130.jpg",
+      "size": [
+        238,
+        151
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8664,
+      "localPath": "assets/products/14d376-130.webp",
+      "sha256": "d8b2b0f14ce3d860a9a412d66715343a1c59837e19da875cef6326eed78448c2",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/14d376-130.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/108.jpg",
+      "size": [
+        241,
+        152
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10904,
+      "localPath": "assets/products/173855-108.webp",
+      "sha256": "92ace63c987c98b5c2126039462f76a84c7e5b30fac3cec5ffa23c279f076e08",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/173855-108.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/106.jpg",
+      "size": [
+        242,
+        151
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 11358,
+      "localPath": "assets/products/17d5b1-106.webp",
+      "sha256": "945e68c72d27b1c1c24b5174a41261ebfec5561accccb43f48c100ae08b1d26f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/17d5b1-106.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ce.gif",
+      "size": [
+        32,
+        30
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 712,
+      "localPath": "assets/products/17e1a1-ce.webp",
+      "sha256": "1773cccd126a7c77c09e89da784f55ee27020005b6ff7817f9c6462e0595eeb2",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/17e1a1-ce.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_in_acciaio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/f2.jpg",
+      "size": [
+        300,
+        234
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 22340,
+      "localPath": "assets/products/18362a-f2.webp",
+      "sha256": "519bbe57ef3cdaa90a6d5179ba6c211d560165c14e0a913de25b40be3a444ed2",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/18362a-f2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/133.jpg",
+      "size": [
+        240,
+        159
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9208,
+      "localPath": "assets/products/1a18c5-133.webp",
+      "sha256": "78d1ee5ae0990d9c30d016e07cbc5c05954372965b5210a7e672f4121ec1717b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/1a18c5-133.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/08.jpg",
+      "size": [
+        2448,
+        1836
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 536706,
+      "localPath": "assets/products/1a87f8-08.webp",
+      "sha256": "5c5b0b60a292eb814c733b9297d86b4380ebd5f23b9fdbe92c0501588fe6d300",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/1a87f8-08.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/b3.jpg",
+      "size": [
+        250,
+        67
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 1306,
+      "localPath": "assets/products/1ad0ea-b3.webp",
+      "sha256": "9f2402c2b9b6dade52c56b160ab4e39a6dec1c074cd1452b27f7811fb40cf6c7",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/1ad0ea-b3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/15.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3876,
+      "localPath": "assets/products/1be7ba-15.webp",
+      "sha256": "6d8f5ed71d2a7b572fdc9d9a6a59932aed1fc4a474f5dcc05e38f2b5c7bdc385",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/1be7ba-15.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/01.jpg",
+      "size": [
+        918,
+        1224
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 210912,
+      "localPath": "assets/products/1e7c0f-01.webp",
+      "sha256": "18f9cec3784f98f772d15ddab03e7fcd6bfa13d452f4e05bda6b8df795b20ea4",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/1e7c0f-01.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm",
+        "https://www.nastritalia.it/fasce.htm",
+        "https://www.nastritalia.it/fasce.htm",
+        "https://www.nastritalia.it/fasce.htm",
+        "https://www.nastritalia.it/funi_tonde.htm",
+        "https://www.nastritalia.it/funi_tonde.htm",
+        "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+        "https://www.nastritalia.it/hobbystica.htm",
+        "https://www.nastritalia.it/parti_metalliche.htm",
+        "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+        "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+        "https://www.nastritalia.it/tiranti_in_cavo.htm",
+        "https://www.nastritalia.it/accessori_per_tiranti.htm",
+        "https://www.nastritalia.it/funi_in_acciaio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ce.jpg",
+      "size": [
+        34,
+        32
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 920,
+      "localPath": "assets/products/1f3bcd-ce.webp",
+      "sha256": "9a0b117ffe04b0c061f81b84f8e90fe63727a6bcca30596d747af76a84ae8fa8",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/1f3bcd-ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/clamp2.jpg",
+      "size": [
+        1026,
+        491
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 61048,
+      "localPath": "assets/products/20824c-clamp2.webp",
+      "sha256": "0a7e3d650d0294d0665e292776feda760a4b83f73c90e03844ccf4d25f65acc6",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/20824c-clamp2.jpg"
+    },
+    {
+      "localPath": "assets/products/21de0a-base0004.webp",
+      "sha256": "c0d80c0a2111447e670037ea4e2f59fc1ce6f89fd30f9796c3d336375d3a2a34",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "type": "catalog-asset",
+      "note": "Asset già presente nel progetto sorgente; riferimenti delle schede in data/catalog.json."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/06.jpg",
+      "size": [
+        2448,
+        1836
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 992220,
+      "localPath": "assets/products/234a2b-06.webp",
+      "sha256": "3549681ea09e332968437ddf6cc74278667e86a0e2dcee8ea971a9220cb15c72",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/234a2b-06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/08.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2938,
+      "localPath": "assets/products/236d5a-08.webp",
+      "sha256": "a4cccbcfef1400795ddd3f947bb3c66a4fda6942f5da99601fdc92e5ba98c46a",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/236d5a-08.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/tipodos.jpg",
+      "size": [
+        495,
+        261
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 21488,
+      "localPath": "assets/products/25d631-tipodos.webp",
+      "sha256": "6267fd71083d2fdf69852544e8f5ef415d94700a5ee2781290c8294295b91fce",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/25d631-tipodos.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/10.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3148,
+      "localPath": "assets/products/29ff75-10.webp",
+      "sha256": "ceedf6ff8c2e003d16f50a25e02778205940215dde3336735ced496cb409a3c6",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/29ff75-10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/anel2.jpg",
+      "size": [
+        400,
+        334
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 29238,
+      "localPath": "assets/products/2b3f1f-anel2.webp",
+      "sha256": "6e04e26639d05bb35d81b90a58bee96612795ef39fb476873a21761cd72ef54d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/2b3f1f-anel2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/127.jpg",
+      "size": [
+        243,
+        154
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9228,
+      "localPath": "assets/products/2bc3fc-127.webp",
+      "sha256": "266f681eff9f9fa65d2910f5f7ea15cc94b308e0c9d5ef727db5661fac292144",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/2bc3fc-127.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/05.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3156,
+      "localPath": "assets/products/2c5674-05.webp",
+      "sha256": "f128e8ed2baba784bde2557ec40645a416b7c0681270b1f046ff614be624ef84",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/2c5674-05.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/Rivenditore.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/Rivenditore.htm",
+        "https://www.nastritalia.it/rivenditore.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/rud_1.jpg",
+      "size": [
+        729,
+        174
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10726,
+      "localPath": "assets/products/2dff42-rud-1.webp",
+      "sha256": "9c553d97260cc35ca4f950a8efbbacf514ac82ff5253b70218ecb93143a9b6a7",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/2dff42-rud-1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/index.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/index.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/fattexd.jpg",
+      "size": [
+        578,
+        50
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7072,
+      "localPath": "assets/products/378757-fattexd.webp",
+      "sha256": "e72c00a586a86709d15afbae86fd02d1009c028c90acbc4c717682746cfea77e",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/378757-fattexd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/contatti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/contatti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cartUp.jpg",
+      "size": [
+        264,
+        157
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10310,
+      "localPath": "assets/products/379057-cartup.webp",
+      "sha256": "3debd2a30110187f6f1c17b58cdb31f1572e1a3fab47873eb742d6ed5947a883",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/379057-cartup.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/145.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7460,
+      "localPath": "assets/products/37f58a-145.webp",
+      "sha256": "9474a3a962041fe41515592daa165a94931d69668fb6a71bc80379eb03a9d52d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/37f58a-145.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/07.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2664,
+      "localPath": "assets/products/392c67-07.webp",
+      "sha256": "86562658bb407045d2956d2d4324ca684f84574dce7d8d8ec40da947e0fe6c73",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/392c67-07.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/101.jpg",
+      "size": [
+        243,
+        152
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9728,
+      "localPath": "assets/products/3b389c-101.webp",
+      "sha256": "349ac5f976690160f061083469f1f6568d4f770be91540ee571d1449d5663cc8",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/3b389c-101.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/04.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3304,
+      "localPath": "assets/products/3c233f-04.webp",
+      "sha256": "fc7a4660bac192c81a976446567c42c3b3e77f08427749200a4c595edf946cbe",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/3c233f-04.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ganci_fonderie.jpg",
+      "size": [
+        518,
+        163
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 25496,
+      "localPath": "assets/products/3e787e-ganci-fonderie.webp",
+      "sha256": "e6455d6b264077bb2e5c3ac507f8a3836eadd69610c6150737de30767d6d8977",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/3e787e-ganci-fonderie.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ganci322c.gif",
+      "size": [
+        83,
+        251
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3168,
+      "localPath": "assets/products/401d33-ganci322c.webp",
+      "sha256": "61fb03b4578e8e5119e95f8a4c7ecef8734ee8171569aa9e00c01af344a36be2",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/401d33-ganci322c.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/index.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/index.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/offerta_top.png",
+      "size": [
+        381,
+        146
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 29012,
+      "localPath": "assets/products/425078-offerta-top.webp",
+      "sha256": "8e80e8fe05ac0d0ee3027500928780fc74abd8ca15edb3624c7ed563aaa3c380",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/425078-offerta-top.png"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/05.jpg",
+      "size": [
+        2448,
+        1836
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 1224560,
+      "localPath": "assets/products/42cbe5-05.webp",
+      "sha256": "e12124bb04e398abc67433c1fad0a7bff0feb863a8fcc1141b6ecfa92a654e79",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/42cbe5-05.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_tonde.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/anellidissingolo.jpg",
+      "size": [
+        142,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5052,
+      "localPath": "assets/products/433fa6-anellidissingolo.webp",
+      "sha256": "13396b6fad46093b6e72760ccc0d3f95ac34230934ecb180ae4260d24d02c09f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/433fa6-anellidissingolo.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/128-129.jpg",
+      "size": [
+        237,
+        154
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8790,
+      "localPath": "assets/products/43cf30-128-129.webp",
+      "sha256": "fede2fc583fef1fed5a0452098da9a4c91bca41711908f68709ffd8f6e184366",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/43cf30-128-129.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/146.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8330,
+      "localPath": "assets/products/4491cb-146.webp",
+      "sha256": "95f58292f32ef518bbd2ce64a28834b6de90928c853814310ec0132f6221eb53",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/4491cb-146.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_tonde.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/tabelle/portata_in_kg.bmp",
+      "type": "image",
+      "gaps": [],
+      "size": [
+        560,
+        370
+      ],
+      "verifiedAt": "2026-10-29",
+      "bytes": 50474,
+      "localPath": "assets/products/453a1d-portata-in-kg.webp",
+      "sha256": "04f356a5231dd52afcb8eb99e08aab3f97702d6fd16fdbe57e6b6345a1d0b4e6",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/453a1d-portata-in-kg.bmp"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/11.jpg",
+      "size": [
+        100,
+        133
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4138,
+      "localPath": "assets/products/4639e1-11.webp",
+      "sha256": "0c5dccda1e4cc6ae8e70bdd36bbdde0fc64990312ae1c36055ce17db34bad8da",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/4639e1-11.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/FBC.jpg",
+      "size": [
+        500,
+        317
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 26598,
+      "localPath": "assets/products/466a12-fbc.webp",
+      "sha256": "7868176e18a63b67c2b5fb2cf7a74024fdee585370708f980a56317d750269f8",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/466a12-fbc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/09.jpg",
+      "size": [
+        1836,
+        2448
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 680318,
+      "localPath": "assets/products/470cd1-09.webp",
+      "sha256": "358a4c1c03402485a42c5079807e0dd7f5f383c1ddfb0532d147d781c8dbfd71",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/470cd1-09.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/115.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8500,
+      "localPath": "assets/products/47a5ba-115.webp",
+      "sha256": "10e189a3abd1e2a4a732e3e3da0ead8b2185bb59fd95a976959038e61e9916a7",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/47a5ba-115.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/02.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5330,
+      "localPath": "assets/products/491e99-02.webp",
+      "sha256": "efaaf538539e36c593db6ef3bdabee0c0a76112d8f4254e5ae93763d99eef718",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/491e99-02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/08.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2240,
+      "localPath": "assets/products/49b56c-08.webp",
+      "sha256": "dc09def0efa55d109a89b2c27df481e339c694d306e53593bb637a4764998e15",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/49b56c-08.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cricchettiganci.jpg",
+      "size": [
+        215,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9262,
+      "localPath": "assets/products/4b175f-cricchettiganci.webp",
+      "sha256": "2ec10168e96c4b69530e52b9d5d2159d7a60aea8fd3c746d43051e5f118a6d42",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/4b175f-cricchettiganci.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/clamp4.jpg",
+      "size": [
+        1021,
+        581
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 90182,
+      "localPath": "assets/products/4bdb1c-clamp4.webp",
+      "sha256": "3b977d6705dd3879a21b49dc4d02aec2cec1f98406fbd6babbbd026177f262ba",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/4bdb1c-clamp4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/g209.jpg",
+      "size": [
+        276,
+        316
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 28936,
+      "localPath": "assets/products/4d02f1-g209.webp",
+      "sha256": "b11921449fe28c8c738e734affd2174495227b27ab7533e75aa5d5430f5b7c35",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/4d02f1-g209.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/14.jpg",
+      "size": [
+        100,
+        133
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5738,
+      "localPath": "assets/products/4d3a2d-14.webp",
+      "sha256": "1b26108f4ed53d6e422fae00e8417ab24fd9c8ed054d9129d7a0cfbb4bec686b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/4d3a2d-14.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/05.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5828,
+      "localPath": "assets/products/4feedf-05.webp",
+      "sha256": "8dafd95b8166ce0921a701b9ded4d53817a96bc0a2136abeeeda244aab2e6acb",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/4feedf-05.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/141-142.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9158,
+      "localPath": "assets/products/5159c6-141-142.webp",
+      "sha256": "efbc956ca22342969f5bd25238cb31ae70931aa02628058624be12e1288e0af7",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/5159c6-141-142.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/109.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10272,
+      "localPath": "assets/products/55ae77-109.webp",
+      "sha256": "aa57c453a01b6c4af03e2acb2493e0c47a4c0b7629a290673e3a1ad6fec5dc8b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/55ae77-109.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/124.jpg",
+      "size": [
+        238,
+        149
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8740,
+      "localPath": "assets/products/5d5c6e-124.webp",
+      "sha256": "91aaafde9568b9a634262e64e523ef21300c0b0f448d63ecf67763b89ee636bc",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/5d5c6e-124.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cricchetto1.jpg",
+      "size": [
+        502,
+        154
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 18424,
+      "localPath": "assets/products/5e9de9-cricchetto1.webp",
+      "sha256": "85aa81cad2f43391a187ccbf9b3d21b4bff551f6d30457b32ac1dc3a87f31b2b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/5e9de9-cricchetto1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/07.jpg",
+      "size": [
+        2448,
+        1836
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 481742,
+      "localPath": "assets/products/5f760f-07.webp",
+      "sha256": "70ce39f8fbb2c0da817ef162f1c4f365218d8f5661c67f1d42ab4d8c7f1e1d81",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/5f760f-07.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/06.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 6028,
+      "localPath": "assets/products/6094db-06.webp",
+      "sha256": "50869a24c3f6e133454e88601edcb7fe46135da2e73fb081408fefb96e3b4abc",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/6094db-06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_tonde.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/anellidisdoppio.jpg",
+      "size": [
+        142,
+        153
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5152,
+      "localPath": "assets/products/61d20a-anellidisdoppio.webp",
+      "sha256": "d1746b96bb5a18f4d4946874c5576b51999acb6f840032ea82b6c34da6121762",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/61d20a-anellidisdoppio.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/grilliuni.gif",
+      "size": [
+        98,
+        304
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2942,
+      "localPath": "assets/products/62865f-grilliuni.webp",
+      "sha256": "854f86553a098e05e21890a617b591b2ff2a2966c8d7f22d3c89b59f7509c06a",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/62865f-grilliuni.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/03.jpg",
+      "size": [
+        2448,
+        1836
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 1365560,
+      "localPath": "assets/products/64a677-03.webp",
+      "sha256": "bc7769baebf3781dbcb1558dcf6ce9b680d734fe2d89502cb642037bc4627df2",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/64a677-03.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/tiranti1braccio.gif",
+      "size": [
+        63,
+        262
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3232,
+      "localPath": "assets/products/654973-tiranti1braccio.webp",
+      "sha256": "1d1ba1ea98025a6e29b4f2cbc030b9c6e37ac607d12e59933dfcad7574d34e9b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/654973-tiranti1braccio.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/04.jpg",
+      "size": [
+        2448,
+        1836
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 872726,
+      "localPath": "assets/products/697aca-04.webp",
+      "sha256": "27bb6b96bf075a9138dbaf88025bc7a1b3c6ae59b0380f53a03f614ce88f9bcb",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/697aca-04.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/112.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7404,
+      "localPath": "assets/products/69ad70-112.webp",
+      "sha256": "4a863d24c9ec71bc3f34bb9e66e7fa0419c7d85d4259cce2e5ffc651736cd49f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/69ad70-112.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/114.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7782,
+      "localPath": "assets/products/6b38ee-114.webp",
+      "sha256": "34d515221fb6df8d866e0ab0838147e710a0244f231249307fea7cd953678f57",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/6b38ee-114.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/125.jpg",
+      "size": [
+        239,
+        162
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8702,
+      "localPath": "assets/products/6b57ff-125.webp",
+      "sha256": "7bee594f6b87a9809697194c13a08662bbc1ac5bcd817eecd05f23f8ddd971c7",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/6b57ff-125.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/118.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7326,
+      "localPath": "assets/products/6d32b6-118.webp",
+      "sha256": "8a6bbbbb8f0e7347de7168302f94d3788fa815d6e1d9c7d96e0d47c88e00a721",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/6d32b6-118.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/14.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 1814,
+      "localPath": "assets/products/708651-14.webp",
+      "sha256": "ceccdcbec8bc55535881d2236c5d3f2a006eadb804c89bcc6207097984e02336",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/708651-14.jpg"
+    },
+    {
+      "localPath": "assets/products/724b6c-base0003.webp",
+      "sha256": "433c08817b4458d7fd0b82db79a18e5089b973fabc9d7c8e04a48884c1164f42",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "type": "catalog-asset",
+      "note": "Asset già presente nel progetto sorgente; riferimenti delle schede in data/catalog.json."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/maglie_giunzione.jpg",
+      "size": [
+        525,
+        178
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 27888,
+      "localPath": "assets/products/7258f9-maglie-giunzione.webp",
+      "sha256": "3ea963952921f8c4ed5204dc01a17ffd8bbd9285e2b957fca4716a2b044cab44",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/7258f9-maglie-giunzione.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/Rivenditore.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/Rivenditore.htm",
+        "https://www.nastritalia.it/rivenditore.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/idea_scale.jpg",
+      "size": [
+        187,
+        187
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 16474,
+      "localPath": "assets/products/726706-idea-scale.webp",
+      "sha256": "fbc5323c170efad0c247e40b4b005d9fefb8c91721c07d552ac62b0b56bd2bd1",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/726706-idea-scale.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/131.jpg",
+      "size": [
+        240,
+        150
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8666,
+      "localPath": "assets/products/73dd02-131.webp",
+      "sha256": "0ff10463598611bed156478292e1172e6fe7f17662e037dc72f79ce259f11041",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/73dd02-131.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cric3.jpg",
+      "size": [
+        270,
+        150
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9774,
+      "localPath": "assets/products/749480-cric3.webp",
+      "sha256": "4fd8d294933bb135765f108b3c6c961a8492d35a2f74885aadb89a0f87e0ab5b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/749480-cric3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/11.jpg",
+      "size": [
+        576,
+        768
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 71372,
+      "localPath": "assets/products/75d237-11.webp",
+      "sha256": "93de6bfb00b0aabda4162a5a46830c2b443cc95be4325863f52c072cab504d37",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/75d237-11.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/13.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4108,
+      "localPath": "assets/products/76ae94-13.webp",
+      "sha256": "ed9477bdced0df20f44acc455ca62130ad367e3efd3cccc5836b4864c7e00b43",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/76ae94-13.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/gt2.jpg",
+      "size": [
+        500,
+        251
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 23528,
+      "localPath": "assets/products/770d57-gt2.webp",
+      "sha256": "d7e42c8664aad9b128d7b5d7531f71550a59e7bceeb98174767256c30e60f319",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/770d57-gt2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/guni.jpg",
+      "size": [
+        248,
+        304
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 25406,
+      "localPath": "assets/products/781ada-guni.webp",
+      "sha256": "2a39180a2b36a0e9c57de8f45fc047eeda17a4efe26145a733690bf5a20adf76",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/781ada-guni.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/134.jpg",
+      "size": [
+        236,
+        162
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8240,
+      "localPath": "assets/products/782118-134.webp",
+      "sha256": "5e8a12abcfdcbb1f390052445f3448e28623eb049d529fcfa26e5f44ff1c8410",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/782118-134.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/13.jpg",
+      "size": [
+        100,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4996,
+      "localPath": "assets/products/7d0d40-13.webp",
+      "sha256": "7ad8a7dfe93003d507ee326e1f67e7667b02bb04ec44bf5e7c983bfd8cf8333c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/7d0d40-13.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/123.jpg",
+      "size": [
+        238,
+        153
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8728,
+      "localPath": "assets/products/7dfd46-123.webp",
+      "sha256": "73d993635e586994244aeca76d2924adef3cff93d3f5baacba7c0cb96129f378",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/7dfd46-123.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/107.jpg",
+      "size": [
+        242,
+        155
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 11086,
+      "localPath": "assets/products/7f48b6-107.webp",
+      "sha256": "6d3b12904771cc31726899b7255fd6d2e80c45da55d9b208e7d8df228ab07ded",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/7f48b6-107.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/tiranti4bracci.gif",
+      "size": [
+        173,
+        276
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9728,
+      "localPath": "assets/products/82a9cc-tiranti4bracci.webp",
+      "sha256": "700ecee1e60b6c166ec54fb37ac500002d7117ac85f9eeb07ca61a548d99086c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/82a9cc-tiranti4bracci.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/index.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/index.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/menu_uno.jpg",
+      "size": [
+        254,
+        200
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 12458,
+      "localPath": "assets/products/82c937-menu-uno.webp",
+      "sha256": "6f4fd93f6780696de12a928bb79fac18edcc9ad6d5b0d02d2677cb389b04a00d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/82c937-menu-uno.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cricchettiganciestremita.jpg",
+      "size": [
+        215,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8448,
+      "localPath": "assets/products/84700f-cricchettiganciestremita.webp",
+      "sha256": "fe7d4fcdf8aaa7d649cc094660769c55ca8f67b294ebadd0cc9d8bf34f1e607c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/84700f-cricchettiganciestremita.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ganci_clevis.jpg",
+      "size": [
+        514,
+        140
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 18766,
+      "localPath": "assets/products/8619a2-ganci-clevis.webp",
+      "sha256": "aefedcb8b2240a868dc634abad26bc921da3962b129bc47dd69af8e9f186d9bd",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/8619a2-ganci-clevis.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cps_scheda.jpg",
+      "size": [
+        167,
+        336
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7966,
+      "localPath": "assets/products/894346-cps-scheda.webp",
+      "sha256": "407ec96691b6a58bfbd536f96a6e8cb353f15b7604b9d5e26a4afd2a4d3e8e7a",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/894346-cps-scheda.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/110.jpg",
+      "size": [
+        244,
+        152
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9648,
+      "localPath": "assets/products/8a7242-110.webp",
+      "sha256": "54343b780fc31a51737b8b7abc7934d57dc4d2fd7ae27b8ed7b4f70ef818e46b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/8a7242-110.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/121.jpg",
+      "size": [
+        239,
+        148
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8452,
+      "localPath": "assets/products/8afb73-121.webp",
+      "sha256": "03665c37996bf72de250190699db38267e64299f944687f68aa7a5acb84493a2",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/8afb73-121.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/b2.jpg",
+      "size": [
+        250,
+        68
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 1602,
+      "localPath": "assets/products/8b0a06-b2.webp",
+      "sha256": "a9eb678e1ed29de277eacc6b87e7126b26c05bd462b6cd2ad47acf69f3d23b5e",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/8b0a06-b2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/01.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2786,
+      "localPath": "assets/products/8bd8df-01.webp",
+      "sha256": "f1e564cf7ead901113d9ea9283729c45f110ecdb70bac997f8e2b01f7bf8c61d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/8bd8df-01.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/102.jpg",
+      "size": [
+        248,
+        154
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10312,
+      "localPath": "assets/products/8c52c3-102.webp",
+      "sha256": "b1069f250111f4b815faa80cf6bf6413c360e3e591e738531e86a0b2930aa42d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/8c52c3-102.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/tabelle/fasce_ultra1.jpg",
+      "size": [
+        495,
+        452
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 57898,
+      "localPath": "assets/products/8f70d5-fasce-ultra1.webp",
+      "sha256": "79ba1b5d335ceefdcaf67060f52020dc623271ca422f7d2461fab0bac14aa680",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/8f70d5-fasce-ultra1.jpg"
+    },
+    {
+      "localPath": "assets/products/90b83a-base0006.webp",
+      "sha256": "7ba5a4aab4f26024420e0504522b13377fa13d1f1d955b50e0faab81cf6e9575",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "type": "catalog-asset",
+      "note": "Asset già presente nel progetto sorgente; riferimenti delle schede in data/catalog.json."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/contatti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/contatti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cartDw.jpg",
+      "size": [
+        264,
+        149
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10200,
+      "localPath": "assets/products/91942c-cartdw.webp",
+      "sha256": "4c0208219f4af4c48045cb296ce780ae30b438cc71fe2123f033da93172fe689",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/91942c-cartdw.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/147.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8672,
+      "localPath": "assets/products/931d05-147.webp",
+      "sha256": "9454d5061577b563ef3fcb37886d2435331bf792b48db70ac6e9d20d88e70dcd",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/931d05-147.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/09.jpg",
+      "size": [
+        100,
+        133
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5278,
+      "localPath": "assets/products/945995-09.webp",
+      "sha256": "ca7584b02e8ecc8ed4f07438ed55e556c9fcd943d5d10fe85ff569980c4b249b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/945995-09.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ancoraggiomotocicletteAM.jpg",
+      "size": [
+        215,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8132,
+      "localPath": "assets/products/96d0f7-ancoraggiomotocicletteam.webp",
+      "sha256": "1b2d5a5ecc0cbb0a0e2090d5d9b56df8a1f524ad2f4753be95a6d55890789d42",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/96d0f7-ancoraggiomotocicletteam.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cnt.jpg",
+      "size": [
+        289,
+        176
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 18918,
+      "localPath": "assets/products/9768ea-cnt.webp",
+      "sha256": "e29c863c7ff2672807bd421edfe1924d61e7fbb203f6a2b614d9cba56ddbcc8f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/9768ea-cnt.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cricchetto2.jpg",
+      "size": [
+        503,
+        297
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 19716,
+      "localPath": "assets/products/98317b-cricchetto2.webp",
+      "sha256": "4fb40e6ddfdb049600b836bf33a9f2aecca774638585a9c3c64d747a3e064485",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/98317b-cricchetto2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/tabelle/fasce_ultra.jpg",
+      "size": [
+        825,
+        538
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 70942,
+      "localPath": "assets/products/98e7a4-fasce-ultra.webp",
+      "sha256": "eca3d9825357fdc951f81016d9996c29931985445efb9491f1be7bcc5a50af3f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/98e7a4-fasce-ultra.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/tabelle/fasce_strato_doppio_2.bmp",
+      "size": [
+        560,
+        223
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 20648,
+      "localPath": "assets/products/98f0ce-fasce-strato-doppio-2.webp",
+      "sha256": "551b6f25de7599b1b2a71a89640b146e0485bf3749e5ca68556554b8b42e4e38",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/98f0ce-fasce-strato-doppio-2.bmp"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/tirantiscorsoio.gif",
+      "size": [
+        136,
+        336
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5728,
+      "localPath": "assets/products/994125-tirantiscorsoio.webp",
+      "sha256": "9ada8f767792d8556f5b2af8e2af28de04e575b4c72be7030d357a236c6384d1",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/994125-tirantiscorsoio.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/13.jpg",
+      "size": [
+        1224,
+        918
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 176548,
+      "localPath": "assets/products/9a5cb0-13.webp",
+      "sha256": "eaa07a2e141f09af77a66f5635d8238ea019bf37265a6c62e55c1660fa1d533b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/9a5cb0-13.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/122.jpg",
+      "size": [
+        240,
+        149
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8774,
+      "localPath": "assets/products/9a8195-122.webp",
+      "sha256": "952c7441f22c8f44a17a6427c629d1e7d69c42aa9a9c85eb4533efb7748a4021",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/9a8195-122.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/linea_vita.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/linea_vita.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/LINEA VITA.bmp",
+      "size": [
+        568,
+        360
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 32950,
+      "localPath": "assets/products/9cf6a2-linea-vita.webp",
+      "sha256": "c52f107bb68b6953e9ff4cf80b288ffb3bdb61f5ecd4866e01b7f86bcb4c4c78",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/9cf6a2-linea-vita.bmp"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cric4.jpg",
+      "size": [
+        150,
+        200
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7876,
+      "localPath": "assets/products/9de2db-cric4.webp",
+      "sha256": "9348dffa2547ef45df8f9cb97985cd403b5ea2d369ced637339a96ceec950069",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/9de2db-cric4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/12.jpg",
+      "size": [
+        100,
+        133
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4718,
+      "localPath": "assets/products/9e4247-12.webp",
+      "sha256": "112f99976531b5579a5c6a32b7277c91bcb9971e8429ea4b2a0ba2060ddf88a1",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/9e4247-12.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/119.jpg",
+      "size": [
+        240,
+        152
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8114,
+      "localPath": "assets/products/9ef369-119.webp",
+      "sha256": "1daa87d8089f835e36210a3733d8d58cb7bb04e877570d4332ecb0c08f499c0f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/9ef369-119.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/113.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8016,
+      "localPath": "assets/products/9f8696-113.webp",
+      "sha256": "eb8e983362f0f596353298d457a1b01ba6e9e6c0234501a15e2cdbc173c3b2fc",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/9f8696-113.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ancoraggiomotociclette.jpg",
+      "size": [
+        215,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7244,
+      "localPath": "assets/products/a01bcd-ancoraggiomotociclette.webp",
+      "sha256": "4d5cb97ef004bc877c8eee2825e0a767142c2241769ed96109e1f6802681f39d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/a01bcd-ancoraggiomotociclette.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/grillicuore.gif",
+      "size": [
+        114,
+        316
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3008,
+      "localPath": "assets/products/a22433-grillicuore.webp",
+      "sha256": "289252b263dae8f9bacf65e9ea4f9224b27df6f4aabeafcfb7111011b1912ee8",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/a22433-grillicuore.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/04.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 6360,
+      "localPath": "assets/products/a32791-04.webp",
+      "sha256": "464c141c3c41676eaad5005b46923bf6354c73faf38f582c54cc68b900e4ac39",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/a32791-04.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/117.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7398,
+      "localPath": "assets/products/a3b364-117.webp",
+      "sha256": "befedd2299569d698f79e650dd5941737b7aa128203ee596caa19abd64fe608c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/a3b364-117.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/06.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2178,
+      "localPath": "assets/products/a7eba5-06.webp",
+      "sha256": "7b8c9aaed75df13d8c9589f1bdff6ded9c0a4d72db345dba988df7ab846f925f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/a7eba5-06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/campanelle.gif",
+      "size": [
+        120,
+        205
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3372,
+      "localPath": "assets/products/aa1ce7-campanelle.webp",
+      "sha256": "28f366190959dc6214e21ab0a7464e81ec87cafb4df444249a8edc221ceec54f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/aa1ce7-campanelle.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/tiranti.jpg",
+      "size": [
+        500,
+        398
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 45052,
+      "localPath": "assets/products/ab6dc5-tiranti.webp",
+      "sha256": "dfef76041f27d89a8da82661908be4d2662be8b54a6f3c1e2bf358acced6eb12",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/ab6dc5-tiranti.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/111.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8260,
+      "localPath": "assets/products/aba094-111.webp",
+      "sha256": "78f5a6fbf4f9b38bb982d22335451d6ba1a4874e7b04ce591fbf87a3c6836032",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/aba094-111.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cric1.jpg",
+      "size": [
+        300,
+        108
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 6322,
+      "localPath": "assets/products/abc76b-cric1.webp",
+      "sha256": "7548d385b4fb1e09905c85a38a78cfd3413762f99f44dbcd902d6578483d2f11",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/abc76b-cric1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ganci320c.gif",
+      "size": [
+        149,
+        251
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5596,
+      "localPath": "assets/products/ae0a27-ganci320c.webp",
+      "sha256": "393935ffe706e9fe10de9467f09150239dc2d4fd9f85d7f4f9a1c7cd4e52ffa5",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/ae0a27-ganci320c.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ac322.jpg",
+      "size": [
+        350,
+        251
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 31478,
+      "localPath": "assets/products/b1c0c1-ac322.webp",
+      "sha256": "5521693ec49bf334ae4652f602d781d93201c5f1524e133ef2ff9d2772b7aaba",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/b1c0c1-ac322.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cricchetto28a.jpg",
+      "size": [
+        215,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7042,
+      "localPath": "assets/products/b44724-cricchetto28a.webp",
+      "sha256": "db6f1c64570cedc2870b711567871f6fc665d00891f63053e734ca98f4e89139",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/b44724-cricchetto28a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ancoraggioursus.jpg",
+      "size": [
+        215,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 6112,
+      "localPath": "assets/products/b60fd9-ancoraggioursus.webp",
+      "sha256": "92ea9497c211ee5afee686ba0bdd13699268ed74ab7afba7e07586699b067afb",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/b60fd9-ancoraggioursus.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ganci_self_locking_clevis.jpg",
+      "size": [
+        513,
+        125
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 17960,
+      "localPath": "assets/products/b6feae-ganci-self-locking-clevis.webp",
+      "sha256": "a29b7f74866e69a0a68e0f25f2ebf7b54d60257c6ec8df0f97ede3c0888bb772",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/b6feae-ganci-self-locking-clevis.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/tabelle/fasce_strato_quadruplo.bmp",
+      "type": "image",
+      "gaps": [],
+      "size": [
+        560,
+        304
+      ],
+      "verifiedAt": "2026-10-29",
+      "bytes": 29636,
+      "localPath": "assets/products/b82090-fasce-strato-quadruplo.webp",
+      "sha256": "172c1b41e0e717320d9dcf544202bcb84f78e2b5da09ad50833ed5a8a266ed5d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/b82090-fasce-strato-quadruplo.bmp"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/tabelle/fasce_strato_semplice_1.bmp",
+      "size": [
+        560,
+        220
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 20350,
+      "localPath": "assets/products/ba0ac7-fasce-strato-semplice-1.webp",
+      "sha256": "84fd84dc6721298ae4ce4a576ab1da44bc851d07653deee6c218995a3dadf3dd",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/ba0ac7-fasce-strato-semplice-1.bmp"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/Nastri colorati nuova.jpg",
+      "size": [
+        567,
+        320
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 70396,
+      "localPath": "assets/products/ba7d16-nastri-colorati-nuova.webp",
+      "sha256": "635be899bc3967c9cf3d3a18febc282cc8db4fa240360144741b4bf1e46bc7bd",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/ba7d16-nastri-colorati-nuova.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/02.jpg",
+      "size": [
+        2448,
+        1836
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 886962,
+      "localPath": "assets/products/bab2ab-02.webp",
+      "sha256": "774da9823974c75feda65017b0589da2d66061e7629fb3cdf9a297982682b4d8",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/bab2ab-02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ganci_accorciatori.jpg",
+      "size": [
+        522,
+        162
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 23990,
+      "localPath": "assets/products/bd80ff-ganci-accorciatori.webp",
+      "sha256": "3554a530865a976c8435b0c00f554149bf75588680c77f6c98aed4d469f3cdf3",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/bd80ff-ganci-accorciatori.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_tonde.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/fune ad anello.jpg",
+      "size": [
+        559,
+        184
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9626,
+      "localPath": "assets/products/c0152f-fune-ad-anello.webp",
+      "sha256": "9451c8f9522dfc4d483bd1bfa4f2fd3379a340e8fb960474f188c9dd409da216",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c0152f-fune-ad-anello.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/01.jpg",
+      "size": [
+        100,
+        133
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5070,
+      "localPath": "assets/products/c01c63-01.webp",
+      "sha256": "2d74c06d9d19de67eb165a3b36ddff73fc61bf04c6614ef18130d697a17369a9",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c01c63-01.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/132.jpg",
+      "size": [
+        238,
+        153
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7976,
+      "localPath": "assets/products/c132a4-132.webp",
+      "sha256": "823915564900111f42f68b9a5d859b0153c2c0e973f3a1ec6b5f2e738c953d35",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c132a4-132.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/07.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3298,
+      "localPath": "assets/products/c14d8f-07.webp",
+      "sha256": "b4e1de27c3f79230b30dca349ae421ca2f4f12aad12b4cd4722b97b7ba53318e",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c14d8f-07.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/Tipoqos.jpg",
+      "size": [
+        515,
+        227
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 23944,
+      "localPath": "assets/products/c159d4-tipoqos.webp",
+      "sha256": "920fd663665b0cc783cf350609f29370c5637e53a9813fb3e392d19fdbdfa658",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c159d4-tipoqos.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/tendicatena.jpg",
+      "size": [
+        512,
+        222
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 17930,
+      "localPath": "assets/products/c352c4-tendicatena.webp",
+      "sha256": "7d0b644c07066b61395554f29336bf307c8672e4d90ef8d2ac9186b073e9cd1a",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c352c4-tendicatena.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/14.jpg",
+      "size": [
+        918,
+        1224
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 284216,
+      "localPath": "assets/products/c408be-14.webp",
+      "sha256": "656b66c2a3825df5fbe357f1bc5f7f36db10b7a22e5492fd7228614fb60e4aa3",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c408be-14.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/fb1.jpg",
+      "size": [
+        567,
+        128
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9220,
+      "localPath": "assets/products/c4340f-fb1.webp",
+      "sha256": "0979f60f70ac05661161137e0ccb66f0c48b889e9d505827e2df520408a7a43b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c4340f-fb1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/03.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2962,
+      "localPath": "assets/products/c6b1ab-03.webp",
+      "sha256": "43edb8829e6e54e1c36218ce7b678ba2c5d464f6120c559d131a1744917fcc82",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c6b1ab-03.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/Tiposos.jpg",
+      "size": [
+        466,
+        250
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 15380,
+      "localPath": "assets/products/c882eb-tiposos.webp",
+      "sha256": "e8d790c202308a470749756b6749df9affb31957e97bc2b0e72e3a7a83d35373",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c882eb-tiposos.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/prodotti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/thumb_prodotti/02.jpg",
+      "size": [
+        101,
+        101
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2176,
+      "localPath": "assets/products/c8b93e-02.webp",
+      "sha256": "f868d560d1533adce09e0a6c100f749e1e49371402987cf06e894788fd42c9d9",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c8b93e-02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_accessori_e_catena.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ganci_self_locking_occhio.jpg",
+      "size": [
+        511,
+        130
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 17670,
+      "localPath": "assets/products/c8c38a-ganci-self-locking-occhio.webp",
+      "sha256": "6ddde8a1de235ba3bb67ef5986730f9eb4bb88716822a935f4d00e6de8041e71",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c8c38a-ganci-self-locking-occhio.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/143.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7946,
+      "localPath": "assets/products/c8d315-143.webp",
+      "sha256": "5c21b1753022da6f3c934f05de33e9634a06264db533148a6608edff152ebdb9",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/c8d315-143.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fasce.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/tabelle/fasce_strato_doppio_1.bmp",
+      "type": "image",
+      "gaps": [],
+      "size": [
+        560,
+        261
+      ],
+      "verifiedAt": "2026-10-29",
+      "bytes": 32680,
+      "localPath": "assets/products/cbac83-fasce-strato-doppio-1.webp",
+      "sha256": "20e18b7c624f0fef16a9dc8879ace750c1e6d74bbba93a25f62153797de4ffe5",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/cbac83-fasce-strato-doppio-1.bmp"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/traini.jpg",
+      "size": [
+        215,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9342,
+      "localPath": "assets/products/cc71d5-traini.webp",
+      "sha256": "8526eaf4b4a25cf9d11900210c61bc33e5566a65e18f4fe55721ef3df4ddc5c3",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/cc71d5-traini.jpg"
+    },
+    {
+      "localPath": "assets/products/cc90f2-base0005.webp",
+      "sha256": "b68213865c61e0a39c097ab01b8e8bbc2ebceff02edec97611cfc6aefbbf3456",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "type": "catalog-asset",
+      "note": "Asset già presente nel progetto sorgente; riferimenti delle schede in data/catalog.json."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/gt1.jpg",
+      "size": [
+        500,
+        410
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 41242,
+      "localPath": "assets/products/ccfeaf-gt1.webp",
+      "sha256": "b5619e81472ead7764760467ba197b533aeb0169eafb41043447e9bf42bd838d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/ccfeaf-gt1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/126.jpg",
+      "size": [
+        239,
+        159
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8266,
+      "localPath": "assets/products/cdf623-126.webp",
+      "sha256": "2510bdefcc7121b12eb8eaa7b2e9e7bc297e5e82b8a1faa8f07368569a5a096c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/cdf623-126.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_tonde.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/anelli1.jpg",
+      "size": [
+        163,
+        200
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8778,
+      "localPath": "assets/products/cfeddc-anelli1.webp",
+      "sha256": "f63642a32ad20baf6e856250ef2e00818daf005a37189c460099aa017b4a9b46",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/cfeddc-anelli1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "assetUrl": "https://www.nastritalia.it/images/cricchetto.jpg",
+      "derivedFrom": "public/assets/products/db18e3-cricchetto.webp",
+      "type": "photograph-extraction",
+      "crop": [
+        73,
+        90,
+        495,
+        307
+      ],
+      "sourceDimensions": [
+        502,
+        314
+      ],
+      "dimensions": [
+        422,
+        217
+      ],
+      "verifiedAt": "2026-10-29",
+      "gaps": [],
+      "note": "Area fotografica della famiglia cricchetti tipo A estratta per la presentazione in homepage. Nessun ridimensionamento, ritocco colore o cambiamento geometrico; tavola completa conservata nella fonte e nel catalogo.",
+      "localPath": "assets/products/cricchetti-a-fotografia.webp",
+      "sha256": "a10dd4cb9fcf1943e207fefc0f9266accef520abc5ddfdd61819257d20e3027f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "assetUrl": "https://www.nastritalia.it/images/gt2.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          355,
+          61,
+          476,
+          162
+        ],
+        "sourceSize": [
+          500,
+          251
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3756,
+      "localPath": "assets/products/cuscinetti-in-poliestere-n-252-photo.webp",
+      "sha256": "8d764f1a81844f81d04ad30654e2d8285dfb8c3ddbe324eb66e19ec3dc0c7c47",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_in_acciaio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/f4.jpg",
+      "size": [
+        300,
+        398
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 37970,
+      "localPath": "assets/products/d19e13-f4.webp",
+      "sha256": "5f75bad48ce27620b069e7c56bb5b4eca424b9c47aa7bf58592353072c7e73bf",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/d19e13-f4.jpg"
+    },
+    {
+      "localPath": "assets/products/d1f5e6-base0002.webp",
+      "sha256": "346c6ff46771d122fbbf79b1d6c1a36bf0bba51ec1034c4622c07ed37c40dc4c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "type": "catalog-asset",
+      "note": "Asset già presente nel progetto sorgente; riferimenti delle schede in data/catalog.json."
+    },
+    {
+      "localPath": "assets/products/d47d80-fiore.webp",
+      "sha256": "ea98285c466894233cd9e62e401e221b12006fed936ecf92591c66f509695488",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "sourceUrl": "https://www.nastritalia.it/prodotti.htm",
+      "type": "catalog-asset",
+      "note": "Asset già presente nel progetto sorgente; riferimenti delle schede in data/catalog.json."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/ancoraggioBz25.jpg",
+      "size": [
+        215,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 6880,
+      "localPath": "assets/products/d504be-ancoraggiobz25.webp",
+      "sha256": "4ec6f3334489040d3c5a702b7150e1d06a4d098bbc1cec920e9c68033348e3a7",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/d504be-ancoraggiobz25.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/15.jpg",
+      "size": [
+        1224,
+        918
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 215694,
+      "localPath": "assets/products/d6fdf6-15.webp",
+      "sha256": "c5d8e4a9b6d15e8a5a1f25350584473f9d735a36bf260098a74d89b84db9fb43",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/d6fdf6-15.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cn.jpg",
+      "size": [
+        241,
+        205
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 15506,
+      "localPath": "assets/products/d7a2d4-cn.webp",
+      "sha256": "96c7177485d3b7c0c3a614ad7684014fefbbe0a67eeaf707272abb02e70b4d01",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/d7a2d4-cn.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/index.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/index.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/por.jpg",
+      "size": [
+        667,
+        414
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 34638,
+      "localPath": "assets/products/d98df6-por.webp",
+      "sha256": "79e0c3348d1070b673f4828ee33f4e9037e2a6f59c1c187630bb3560d362ef04",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/d98df6-por.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/hb1.jpg",
+      "size": [
+        350,
+        82
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4496,
+      "localPath": "assets/products/da9fd6-hb1.webp",
+      "sha256": "aa9c2947d8f22e25b09ac0865fef986e45ac02ad8b3e40f4f29393b9d6a12179",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/da9fd6-hb1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cricchetto.jpg",
+      "size": [
+        502,
+        314
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 29874,
+      "localPath": "assets/products/db18e3-cricchetto.webp",
+      "sha256": "94e51730500051c3427e81f44e94819af5f646861bc1277e8c662417e48aebc2",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/db18e3-cricchetto.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/thumb/03.jpg",
+      "size": [
+        133,
+        100
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7318,
+      "localPath": "assets/products/de2f23-03.webp",
+      "sha256": "722953012daa55474aad89f3bd998c3ae5f1600e34f5947970f76e45e5e84337",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/de2f23-03.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/tiranti1.jpg",
+      "size": [
+        499,
+        364
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 43608,
+      "localPath": "assets/products/dfc2e7-tiranti1.webp",
+      "sha256": "07ce310c1b883afd40ab40873cec6a4d20a883c4cde54c493027c9123576c268",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/dfc2e7-tiranti1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/clamp1.jpg",
+      "size": [
+        1020,
+        91
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 20246,
+      "localPath": "assets/products/e1029c-clamp1.webp",
+      "sha256": "db6d57d5bde119f15e1f03407cf93ab56287512b1bed674978977dd2161d364b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/e1029c-clamp1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/fotogallery.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/12.jpg",
+      "size": [
+        918,
+        1224
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 198062,
+      "localPath": "assets/products/e12691-12.webp",
+      "sha256": "ef5a3dbb42babde685ee2dad9249c1760e0df2ae8e1d6bf08c4dca7f495085b6",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/e12691-12.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cn2g.jpg",
+      "size": [
+        201,
+        265
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 11604,
+      "localPath": "assets/products/e18a25-cn2g.webp",
+      "sha256": "9d80d81bc49e180eaa23d62976a6dacf734f36245dd11361d3ddad125c71f4b3",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/e18a25-cn2g.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/hobbystica.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/hb2.jpg",
+      "size": [
+        350,
+        180
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 10214,
+      "localPath": "assets/products/e39c62-hb2.webp",
+      "sha256": "a3703d95d82d3a310ee18cbb4c4004f1e25d1ff94c4046d8af211eb5f5f1ea76",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/e39c62-hb2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/139.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7316,
+      "localPath": "assets/products/ecdb90-139.webp",
+      "sha256": "8ba9c1414d7229c07e176790e7d0c6b12330c43faf42b58f21c93f1505d1ac2d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/ecdb90-139.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/120.jpg",
+      "size": [
+        240,
+        150
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8886,
+      "localPath": "assets/products/ee5670-120.webp",
+      "sha256": "8753de323afbac31378550a2e83c3315e677b2092ff7d1ee75d48fa80bffdf47",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/ee5670-120.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/accessori_per_tiranti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/campanellecomposte.gif",
+      "size": [
+        177,
+        176
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5856,
+      "localPath": "assets/products/ee6d99-campanellecomposte.webp",
+      "sha256": "fc3e5131b875142bb9182a40dad1403c38a0023a22ef73bf785fc2c0e4ca9cae",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/ee6d99-campanellecomposte.gif"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/144.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9110,
+      "localPath": "assets/products/f5ebde-144.webp",
+      "sha256": "ec95c5f510fbb1ce64c66222e08a5b323a206d4837146914c97948951df226f0",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/f5ebde-144.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/funi_in_acciaio.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/f1.jpg",
+      "size": [
+        320,
+        453
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 35658,
+      "localPath": "assets/products/f71cf4-f1.webp",
+      "sha256": "22252f2a0a9255ed592adb97a6ef8010aefb68a80c08e3f9eef1e9298ffd2469",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/f71cf4-f1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/116.jpg",
+      "size": [
+        241,
+        156
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 7264,
+      "localPath": "assets/products/f8e63e-116.webp",
+      "sha256": "ae54a184ce00824ef92d88f95fca991dcff4545c5e4af5f290f0341dfe02ac02",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/f8e63e-116.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/contatti.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/contatti.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/email.jpg",
+      "size": [
+        250,
+        50
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 1970,
+      "localPath": "assets/products/fad9bf-email.webp",
+      "sha256": "8902758aa611016f2fee243e4af37b54a28e5ed433fff2df4383ec65d0f99f99",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/fad9bf-email.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cn4g_scheda.jpg",
+      "size": [
+        201,
+        276
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 13044,
+      "localPath": "assets/products/fb2c9e-cn4g-scheda.webp",
+      "sha256": "41b21d5aa78e47a96043ad2213856915f5c4b96c45ff783b27f5b7c5bc04d4ac",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/fb2c9e-cn4g-scheda.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/parti_metalliche.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/b1.jpg",
+      "size": [
+        250,
+        67
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 1562,
+      "localPath": "assets/products/fd1b6a-b1.webp",
+      "sha256": "eb39fda84a86d8f80029e1f0198af0d963ea02dae58a58527d061c9b3b3f87ec",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/fd1b6a-b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/tiranti_in_cavo.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/cng.jpg",
+      "size": [
+        168,
+        262
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 8448,
+      "localPath": "assets/products/fe1903-cng.webp",
+      "sha256": "2b9604fafddfcd14a50d32e5c29fd28bbfe1038a9e8f1f80cfa11af79af74af0",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/fe1903-cng.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/index.htm",
+      "sourcePages": [
+        "https://www.nastritalia.it/index.htm"
+      ],
+      "assetUrl": "https://www.nastritalia.it/images/menu_due.jpg",
+      "size": [
+        254,
+        200
+      ],
+      "type": "image",
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 16162,
+      "localPath": "assets/products/fe63e2-menu-due.webp",
+      "sha256": "a9f92d92e5b7d7f97edf8d5501961cff9cbd7846f35339b7f9850f879100fd16",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati.",
+      "originalProjectPath": "sources/originals/fe63e2-menu-due.jpg"
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "assetUrl": "https://www.nastritalia.it/images/gt1.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          50,
+          16,
+          190,
+          145
+        ],
+        "sourceSize": [
+          500,
+          410
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4790,
+      "localPath": "assets/products/guaina-tubolare-gommata-photo.webp",
+      "sha256": "c9d5045f5d44707b7e5e4b2e6f00235ea2cf5d3c3d50c52c898ff1c8495e2514",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "assetUrl": "https://www.nastritalia.it/images/gt1.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          308,
+          15,
+          451,
+          145
+        ],
+        "sourceSize": [
+          500,
+          410
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4912,
+      "localPath": "assets/products/guaina-tubolare-in-poliuretano-photo.webp",
+      "sha256": "394a4fc370b3baf3e40aa179d6fd13d68a4d4a0cf44f412a68e86c29df25f470",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "assetUrl": "https://www.nastritalia.it/images/gt2.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          16,
+          61,
+          135,
+          160
+        ],
+        "sourceSize": [
+          500,
+          251
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5040,
+      "localPath": "assets/products/paraspigoli-per-nastro-n-250-photo.webp",
+      "sha256": "3005fb7a08a12119230e4852b4711016fef4f67dd520a2cea16eb75b8f7101e0",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "assetUrl": "https://www.nastritalia.it/images/gt2.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          190,
+          60,
+          311,
+          161
+        ],
+        "sourceSize": [
+          500,
+          251
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 6174,
+      "localPath": "assets/products/paraspigoli-per-nastro-n-251-photo.webp",
+      "sha256": "bbf097bf471bc9dc9cb2c403ae67d9e26817fd35d27931200a84a5f63c4d29d8",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/101.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          119,
+          142
+        ],
+        "sourceSize": [
+          243,
+          152
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5408,
+      "localPath": "assets/products/parte-metallica-101-photo.webp",
+      "sha256": "1d4a2c78b3cd57cfc5bb952536902c20aaeaed473c60032875be524f99f9ec0a",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/102.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          124,
+          24,
+          248,
+          144
+        ],
+        "sourceSize": [
+          248,
+          154
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4226,
+      "localPath": "assets/products/parte-metallica-102-photo.webp",
+      "sha256": "08cf76a7fb12f1c8556237c748e947897853526c412016b1ae572708611ec8fc",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/104-105.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          26,
+          119,
+          156
+        ],
+        "sourceSize": [
+          243,
+          166
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 6106,
+      "localPath": "assets/products/parte-metallica-104-photo.webp",
+      "sha256": "bb20c054a8b4597d69e346ed73c37e1cf2c8b733c536cf108004fc0ad8c91bbf",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/106.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          121,
+          24,
+          242,
+          141
+        ],
+        "sourceSize": [
+          242,
+          151
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4796,
+      "localPath": "assets/products/parte-metallica-106-photo.webp",
+      "sha256": "2c66036d538ba966324986b36827e4947d6c05420ba9879cf4b4d42ebfdfeac0",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/107.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          145
+        ],
+        "sourceSize": [
+          242,
+          155
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5768,
+      "localPath": "assets/products/parte-metallica-107-photo.webp",
+      "sha256": "a40574b4c25e9679ad41684a21e35bf1f04dcb08fb01f3fc8086961b88161c2e",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/108.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          120,
+          24,
+          241,
+          142
+        ],
+        "sourceSize": [
+          241,
+          152
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4898,
+      "localPath": "assets/products/parte-metallica-108-photo.webp",
+      "sha256": "3bc0d74961941d77bb3f400a95e5d5c94c79b8ca701eb71bfe9ae48371827629",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/109.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 5322,
+      "localPath": "assets/products/parte-metallica-109-photo.webp",
+      "sha256": "7cb82013226df734283dd825b8e2f1875b6fb675eba8c0642fe06137e440400d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/110.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          122,
+          24,
+          244,
+          142
+        ],
+        "sourceSize": [
+          244,
+          152
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4734,
+      "localPath": "assets/products/parte-metallica-110-photo.webp",
+      "sha256": "92a9202c1c7b66cc695d839ad828fdcfed12a445261419433d217f649c2aef2c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/111.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3816,
+      "localPath": "assets/products/parte-metallica-111-photo.webp",
+      "sha256": "f6ec306a0f61893d05fccf2f82d4f7d56c961ac64ec205829efea6669ef39317",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/112.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3600,
+      "localPath": "assets/products/parte-metallica-112-photo.webp",
+      "sha256": "acfc9851809f66032b3051c5da8ab31f7121bb814fcfbbcbf776f00a63557a02",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/113.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3790,
+      "localPath": "assets/products/parte-metallica-113-photo.webp",
+      "sha256": "fb626b3ab9d0995f818828ec63c406bbf3197d79708d61d4ad7063da19e2b7e7",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/114.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4114,
+      "localPath": "assets/products/parte-metallica-114-photo.webp",
+      "sha256": "f25fe3aa2e0267c30141871890557c8368404e77d680a57f9d5662e6b01c6d22",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/115.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2998,
+      "localPath": "assets/products/parte-metallica-115-photo.webp",
+      "sha256": "da4dab0ad3f6a3fed1a8be39624ebbd525a4c7a7346e68a70fa88b58e75ef404",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/116.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3328,
+      "localPath": "assets/products/parte-metallica-116-photo.webp",
+      "sha256": "082db6f578858c830737ef5feaa97657f4101a1a9523c70ec0287fc342ab3f14",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/117.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3010,
+      "localPath": "assets/products/parte-metallica-117-photo.webp",
+      "sha256": "bc721be905669d8ecdbce8aba59a24e165ded29bff8920fd5efcd27f0cb203e7",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/118.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3514,
+      "localPath": "assets/products/parte-metallica-118-photo.webp",
+      "sha256": "f5c0c3db27b9cf7b31df15fbf8c8cd737883e732fe72ed950e4c04379397c17e",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/119.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          117,
+          142
+        ],
+        "sourceSize": [
+          240,
+          152
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4030,
+      "localPath": "assets/products/parte-metallica-119-photo.webp",
+      "sha256": "3ba408c5ef1b3592a2a46d04ac024e2fde552eb3f2c7b2676b6a8b47ffd4e0ae",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/120.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          120,
+          24,
+          240,
+          141
+        ],
+        "sourceSize": [
+          240,
+          150
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4054,
+      "localPath": "assets/products/parte-metallica-120-photo.webp",
+      "sha256": "607802b6b0da52f2af1e2430eecf85cda96cafcf4ffa938862e62fb6ad794b5d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/121.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          23,
+          117,
+          139
+        ],
+        "sourceSize": [
+          239,
+          148
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4094,
+      "localPath": "assets/products/parte-metallica-121-photo.webp",
+      "sha256": "e817a0d700ba35518969b8742a944d165c044e82c5f6a8a797540e416b8a8943",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/122.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          120,
+          23,
+          240,
+          140
+        ],
+        "sourceSize": [
+          240,
+          149
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4134,
+      "localPath": "assets/products/parte-metallica-122-photo.webp",
+      "sha256": "4ee24b6fd754d3fbcdace09a7e107955f377fe4dfe56e27281a160591875dbc0",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/123.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          116,
+          143
+        ],
+        "sourceSize": [
+          238,
+          153
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4412,
+      "localPath": "assets/products/parte-metallica-123-photo.webp",
+      "sha256": "ec5bab0c930e7892eddecb894d9ef9b9698ce00193ed556e51d4c99877017300",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/124.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          119,
+          23,
+          238,
+          140
+        ],
+        "sourceSize": [
+          238,
+          149
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3932,
+      "localPath": "assets/products/parte-metallica-124-photo.webp",
+      "sha256": "bc3cf6c5755e21c1a97aa015b5f22683895c38c499b202648664d7164ce8c80f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/125.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          25,
+          117,
+          152
+        ],
+        "sourceSize": [
+          239,
+          162
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4392,
+      "localPath": "assets/products/parte-metallica-125-photo.webp",
+      "sha256": "d461696045eedaa91d7e14ef0098af7f5cb0e973f18cd42ff415d5cde0353c8c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/126.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          119,
+          25,
+          239,
+          149
+        ],
+        "sourceSize": [
+          239,
+          159
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3904,
+      "localPath": "assets/products/parte-metallica-126-photo.webp",
+      "sha256": "98620a0badab4a365e0ea8c322473c7445329b6854f027cc506e44af59f62ba8",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/127.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          119,
+          144
+        ],
+        "sourceSize": [
+          243,
+          154
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4388,
+      "localPath": "assets/products/parte-metallica-127-photo.webp",
+      "sha256": "1c0f816c8f36a719436dbb1c8697ce670a9a536aa6e9fb514bb843863450163b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/128-129.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          118,
+          24,
+          237,
+          144
+        ],
+        "sourceSize": [
+          237,
+          154
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4068,
+      "localPath": "assets/products/parte-metallica-128-photo.webp",
+      "sha256": "c46456ff982157effd35ee26737e2bfb6fa8954245a333149fc1d59a9de4e7c9",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/130.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          119,
+          24,
+          238,
+          141
+        ],
+        "sourceSize": [
+          238,
+          151
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3558,
+      "localPath": "assets/products/parte-metallica-130-photo.webp",
+      "sha256": "c7568b63769828c29b26ee82203877ccf53c79c501fc31091ebad690c990b536",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/131.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          117,
+          141
+        ],
+        "sourceSize": [
+          240,
+          150
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4304,
+      "localPath": "assets/products/parte-metallica-131-photo.webp",
+      "sha256": "c8cda76253c637b3c07e528ea4226f25030e1dab20e0bd6b12162162c888c341",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/132.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          119,
+          24,
+          238,
+          143
+        ],
+        "sourceSize": [
+          238,
+          153
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3770,
+      "localPath": "assets/products/parte-metallica-132-photo.webp",
+      "sha256": "816cd5e491fb80654e2d5afde7c7901517460ff9f9dbb4bf6bd9712b13e7b09d",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/133.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          25,
+          117,
+          149
+        ],
+        "sourceSize": [
+          240,
+          159
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4540,
+      "localPath": "assets/products/parte-metallica-133-photo.webp",
+      "sha256": "87b62072e079f485d17f9dc0ee558a2056cdb5afefcb69f3f438a67a2c58ba2f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/134.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          118,
+          25,
+          236,
+          152
+        ],
+        "sourceSize": [
+          236,
+          162
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3922,
+      "localPath": "assets/products/parte-metallica-134-photo.webp",
+      "sha256": "132dc63651b516d6eb9bfff8c069df2a6b7b0f39c5cddcabb21ad17ad66013ec",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/139.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2720,
+      "localPath": "assets/products/parte-metallica-139-photo.webp",
+      "sha256": "18a9b203295247a6b28509c70158d8169de80937fcc0fd536e02f3a0d5e69955",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/140.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3046,
+      "localPath": "assets/products/parte-metallica-140-photo.webp",
+      "sha256": "a4b49016b17a72f70283482a696379b3d48213717b5f83c4228484b15c674596",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/141-142.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3582,
+      "localPath": "assets/products/parte-metallica-141-photo.webp",
+      "sha256": "0f775b80d3ec1ce2e8a4221d53077cd011e104d707c830410396356066647321",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/143.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 2956,
+      "localPath": "assets/products/parte-metallica-143-photo.webp",
+      "sha256": "806b28bda0595a514bccaa5ecd92e604484b41b7d23df1c81c746e4198158901",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/144.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3516,
+      "localPath": "assets/products/parte-metallica-144-photo.webp",
+      "sha256": "d774759c2b8bacd570c81ff2ce6097eedc31ffbeeb3097d9b160bd5d65c1de62",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/145.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3078,
+      "localPath": "assets/products/parte-metallica-145-photo.webp",
+      "sha256": "eb374a98980c853606997ea7569bfecf31529bf923f02f5f7d1fc0443b845042",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/146.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3434,
+      "localPath": "assets/products/parte-metallica-146-photo.webp",
+      "sha256": "bdd087b11e579fd06e28f0b19e83b3a01072f56d3a9a83bbc22776543a7c6f4e",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "assetUrl": "https://www.nastritalia.it/images/147.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          0,
+          24,
+          118,
+          146
+        ],
+        "sourceSize": [
+          241,
+          156
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 3200,
+      "localPath": "assets/products/parte-metallica-147-photo.webp",
+      "sha256": "3cefb396320a4b4a7299db21a62936471a8f2b10f36bdba7379d761f1dad283b",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "assetUrl": "https://www.nastritalia.it/images/clamp2.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          665,
+          80,
+          1026,
+          491
+        ],
+        "sourceSize": [
+          1026,
+          491
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 21400,
+      "localPath": "assets/products/pinza-per-lamiere-np-photo.webp",
+      "sha256": "86376bed7beba423ddf06457bfa98ff2ae189cf8ee08ea0bded3a640595e9d0c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "assetUrl": "https://www.nastritalia.it/images/clamp4.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          740,
+          225,
+          1021,
+          581
+        ],
+        "sourceSize": [
+          1021,
+          581
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 21134,
+      "localPath": "assets/products/pinza-per-lamiere-nph-photo.webp",
+      "sha256": "f3357fbf39c8d743ff10d941b37d611dab01778cb98d54cc46a20acef829a79a",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "assetUrl": "https://www.nastritalia.it/images/clamp3.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          755,
+          50,
+          1024,
+          453
+        ],
+        "sourceSize": [
+          1024,
+          453
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 21928,
+      "localPath": "assets/products/pinza-per-lamiere-npu-photo.webp",
+      "sha256": "f26c247eb640f5c55aeaef37afaa1daa3ccdfb839d50e5d633c1320fbe1b2b6a",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "assetUrl": "https://www.nastritalia.it/images/tipodos.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          294,
+          28,
+          493,
+          257
+        ],
+        "sourceSize": [
+          495,
+          261
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 9104,
+      "localPath": "assets/products/tirante-in-catena-dos-photo.webp",
+      "sha256": "a15d26cd7699aeedfbfcd0a6f48f0be2baf04ba1a0e9b81108f40151abbebd3c",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "assetUrl": "https://www.nastritalia.it/images/Tipoqos.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          268,
+          17,
+          511,
+          223
+        ],
+        "sourceSize": [
+          515,
+          227
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 11690,
+      "localPath": "assets/products/tirante-in-catena-qos-photo.webp",
+      "sha256": "3eddd7fd5c5217c749a171575212e46bc18d7eb29f37d94be893225dd9c0fa8f",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "assetUrl": "https://www.nastritalia.it/images/Tiposos.jpg",
+      "type": "image",
+      "transformation": {
+        "operation": "crop",
+        "box": [
+          333,
+          33,
+          465,
+          247
+        ],
+        "sourceSize": [
+          466,
+          250
+        ],
+        "resampled": false
+      },
+      "gaps": [],
+      "verifiedAt": "2026-10-29",
+      "bytes": 4280,
+      "localPath": "assets/products/tirante-in-catena-sos-photo.webp",
+      "sha256": "4fd517333dcd0525f42926c124ff864d57939c3923690e7b5c63b386a602e988",
+      "usage": "Fotografia o documento originale del catalogo riutilizzato nel concept Marmi360; dati e colori non alterati."
+    },
+    {
+      "localPath": "assets/company/gallery-02.webp",
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/02.jpg",
+      "type": "photograph",
+      "note": "Repertorio NastrItalia; non è una fotografia di una sede Marmi360. Nessuna alterazione dei prodotti.",
+      "sha256": "2e9fbefbc3af7aee7bc4df89c12d15c1a0f74c4c57e3c5e3b2a7cedab8d24047"
+    },
+    {
+      "localPath": "assets/company/gallery-05.webp",
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/05.jpg",
+      "type": "photograph",
+      "note": "Repertorio NastrItalia; non è una fotografia di una sede Marmi360. Nessuna alterazione dei prodotti.",
+      "sha256": "cfd86dc4b7316fb9146dc1d3101a6d1f2b8e6a5602406730d848a3822c2f9f13"
+    },
+    {
+      "localPath": "assets/company/gallery-13.webp",
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/13.jpg",
+      "type": "photograph",
+      "note": "Repertorio NastrItalia; non è una fotografia di una sede Marmi360. Nessuna alterazione dei prodotti.",
+      "sha256": "3e1a18fe08c1298f018004f179f62e71c2e2af63c94284439d30200f3dcdf518"
+    },
+    {
+      "localPath": "assets/company/gallery-15.webp",
+      "sourceUrl": "https://www.nastritalia.it/fotogallery.htm",
+      "assetUrl": "https://www.nastritalia.it/fotogallery/large/15.jpg",
+      "type": "photograph",
+      "note": "Repertorio NastrItalia; non è una fotografia di una sede Marmi360. Nessuna alterazione dei prodotti.",
+      "sha256": "095b723f75c71a689a9c7c1a2134e5af50040d255a9a6dbf46c3fb644f096787"
+    },
+    {
+      "localPath": "assets/hero-red-webbing-700.webp",
+      "originalPath": "sources/editorial/hero-red-webbing.png",
+      "type": "editorial-generated",
+      "generator": "image_gen built-in",
+      "referencePath": "assets/products/ba7d16-nastri-colorati-nuova.webp",
+      "promptFile": "docs/HERO-PROMPT.md",
+      "note": "Composizione editoriale originale; sostituita nella hero dalla variante scontornata del 31 ottobre 2026.",
+      "sha256": "fb48c6e75e56f239a192f101c669442e6a441470f9e9cea4cf374730425d50ac",
+      "usage": "Versione precedente con sfondo, conservata ma non più usata nella hero."
+    },
+    {
+      "localPath": "assets/hero-red-webbing.webp",
+      "originalPath": "sources/editorial/hero-red-webbing.png",
+      "type": "editorial-generated",
+      "generator": "image_gen built-in",
+      "referencePath": "assets/products/ba7d16-nastri-colorati-nuova.webp",
+      "promptFile": "docs/HERO-PROMPT.md",
+      "note": "Composizione editoriale originale; sostituita nella hero dalla variante scontornata del 31 ottobre 2026.",
+      "sha256": "5d8f3d0b19391a2b4a1cbc81a479134ef1c26af9c69e5800a15d8fd96a604e05",
+      "usage": "Versione precedente con sfondo, conservata ma non più usata nella hero."
+    },
+    {
+      "localPath": "assets/lifting-study.svg",
+      "type": "concept-illustration",
+      "source": "SVG estratto dall’HTML originale nastritalia-rebuild-NERO/index.html, conservato nel backup del progetto principale.",
+      "note": "Visualizzazione concettuale con profondità, non modello tecnico 3D."
+    },
+    {
+      "localPath": "assets/hero-red-webbing-cutout.webp",
+      "originalPath": "sources/editorial/hero-red-webbing-cutout.png",
+      "referencePath": "sources/editorial/hero-red-webbing.png",
+      "type": "editorial-generated-edit",
+      "generator": "image_gen built-in",
+      "promptFile": "docs/HERO-PROMPT.md",
+      "transform": "Rimozione dello sfondo con image_gen; WebP con alpha e copia ridotta da 700 px. Nessun ritocco creativo successivo.",
+      "usage": "Hero homepage dal 31 ottobre 2026, senza didascalia visibile.",
+      "displayNote": "Provenienza editoriale in alt e pagina informazioni. Sfondo trasparente, fondo CSS #080808 come la pagina.",
+      "sha256": "4aa19c667c73d9feee2c02af18ac9d5e79b14c82376e97cf3b3e79ae19e913ad"
+    },
+    {
+      "localPath": "assets/hero-red-webbing-cutout-700.webp",
+      "originalPath": "sources/editorial/hero-red-webbing-cutout.png",
+      "referencePath": "sources/editorial/hero-red-webbing.png",
+      "type": "editorial-generated-edit",
+      "generator": "image_gen built-in",
+      "promptFile": "docs/HERO-PROMPT.md",
+      "transform": "Rimozione dello sfondo con image_gen; WebP con alpha e copia ridotta da 700 px. Nessun ritocco creativo successivo.",
+      "usage": "Hero homepage dal 31 ottobre 2026, senza didascalia visibile.",
+      "displayNote": "Provenienza editoriale in alt e pagina informazioni. Sfondo trasparente, fondo CSS #080808 come la pagina.",
+      "sha256": "1fbf540917dc88cdd2796352c5d0c9ba8b4968e4aaeb42537d7e5b5646cb0616"
+    }
+  ]
+}

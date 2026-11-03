@@ -1,0 +1,17 @@
+{
+  "verifiedAt": "2026-11-01",
+  "brand": "Marmi360",
+  "htmlPages": 106,
+  "oldBrandInHtml": false,
+  "titlesAndHomepageLabelsUpdated": true,
+  "requestSummaryBrand": "Marmi360 — Richiesta di informazioni",
+  "requestDownloadFileName": "Marmi360-richiesta.txt",
+  "search": { "query": "cricchetto", "quickResults": 4, "catalogResults": 19 },
+  "layoutWidths": [320, 390, 768, 1024, 1440],
+  "horizontalOverflow": false,
+  "logoOverlapsHeaderActions": false,
+  "footerWordmarkOverflow": false,
+  "selectionMigration": { "previousSelectionPreserved": true, "currentSelectionTakesPriority": true, "emptySelectionSupported": true },
+  "archive": "Marmi360-html.zip",
+  "screenshots": ["home-1440.jpg", "home-390.jpg", "catalogo-1440.jpg", "home-1440-full.jpg"]
+}

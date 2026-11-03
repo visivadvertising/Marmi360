@@ -1,0 +1,4553 @@
+{
+  "updatedAt": "2026-10-29",
+  "source": "https://www.nastritalia.it/prodotti.htm",
+  "technicalNote": "Dati trascritti dal catalogo originale. Portate, misure, configurazioni e riferimenti normativi vanno confermati nella documentazione del prodotto fornito; i valori non costituiscono istruzioni di impiego.",
+  "categories": [
+    {
+      "id": "fasce",
+      "slug": "fasce",
+      "name": "Fasce in poliestere",
+      "description": "Fasce tessili per il sollevamento: versioni colorate, bianche, Ultra e a quattro strati.",
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "image": "assets/products/ba7d16-nastri-colorati-nuova.webp",
+      "group": "Sollevamento tessile",
+      "gaps": []
+    },
+    {
+      "id": "funi-tonde",
+      "slug": "funi-tonde",
+      "name": "Funi tonde e anelli",
+      "description": "Funi tonde ad anello chiuso, pendenti e anelli a perdere.",
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "image": "assets/products/c0152f-fune-ad-anello.webp",
+      "group": "Sollevamento tessile",
+      "gaps": []
+    },
+    {
+      "id": "cricchetti",
+      "slug": "cricchetti",
+      "name": "Cricchetti per ancoraggio",
+      "description": "Sistemi di ancoraggio con cricchetto, soluzioni per marmo, teloni e trasporti.",
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "image": "assets/products/db18e3-cricchetto.webp",
+      "group": "Ancoraggio e trasporto",
+      "gaps": []
+    },
+    {
+      "id": "hobbistica",
+      "slug": "hobbistica",
+      "name": "Nautica e hobbistica",
+      "description": "Ancoraggi per motociclette, traini, cinghie per cestelli e trasporto marittimo.",
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "image": "assets/products/b60fd9-ancoraggioursus.webp",
+      "group": "Ancoraggio e trasporto",
+      "gaps": []
+    },
+    {
+      "id": "parti-metalliche",
+      "slug": "parti-metalliche",
+      "name": "Parti metalliche",
+      "description": "Cricchetti, fibbie, ganci, anelli, tenditori e barre fermacarico identificati dal codice originale.",
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "image": "assets/products/3b389c-101.webp",
+      "group": "Ancoraggio e trasporto",
+      "gaps": []
+    },
+    {
+      "id": "protezioni",
+      "slug": "protezioni",
+      "name": "Guaine e paraspigoli",
+      "description": "Guaine tubolari e protezioni per i nastri e gli spigoli del carico.",
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "image": "assets/products/guaina-tubolare-gommata-photo.webp",
+      "group": "Sollevamento tessile",
+      "gaps": []
+    },
+    {
+      "id": "pinze-paranchi",
+      "slug": "pinze-paranchi",
+      "name": "Pinze, paranchi e carrucole",
+      "description": "La pagina originale documenta pinze per il sollevamento di lamiere, con presa verticale e orizzontale.",
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "image": "assets/products/pinza-per-lamiere-np-photo.webp",
+      "group": "Sollevamento metallico",
+      "gaps": [
+        "La pagina accessibile documenta pinze; non contiene modelli identificabili di paranchi o carrucole."
+      ]
+    },
+    {
+      "id": "tiranti-cavo",
+      "slug": "tiranti-cavo",
+      "name": "Tiranti in cavo",
+      "description": "Tiranti in fune metallica ad asola, con redancia, a uno o più bracci e a scorsoio.",
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "image": "assets/products/ab6dc5-tiranti.webp",
+      "group": "Sollevamento metallico",
+      "gaps": []
+    },
+    {
+      "id": "accessori-tiranti",
+      "slug": "accessori-tiranti",
+      "name": "Accessori per tiranti",
+      "description": "Ganci, campanelle semplici e composte, grilli a cuore e grilli UNI.",
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "image": "assets/products/a22433-grillicuore.webp",
+      "group": "Sollevamento metallico",
+      "gaps": []
+    },
+    {
+      "id": "funi-acciaio",
+      "slug": "funi-acciaio",
+      "name": "Funi in acciaio",
+      "description": "Funi in acciaio inox AISI 316 e acciaio lucido, con diverse formazioni e anime.",
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "image": "assets/products/f71cf4-f1.webp",
+      "group": "Sollevamento metallico",
+      "gaps": []
+    },
+    {
+      "id": "catene",
+      "slug": "catene",
+      "name": "Catene, tiranti e accessori",
+      "description": "Tiranti SOS, DOS e QOS, catene di grado 80 e accessori di collegamento.",
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "image": "assets/products/tirante-in-catena-dos-photo.webp",
+      "group": "Sollevamento metallico",
+      "gaps": []
+    },
+    {
+      "id": "linea-vita",
+      "slug": "linea-vita",
+      "name": "Linea vita",
+      "description": "Componenti per installazioni di linea vita: configurazione da definire con l’ufficio tecnico.",
+      "sourceUrl": "https://www.nastritalia.it/linea_vita.htm",
+      "image": "assets/products/9cf6a2-linea-vita.webp",
+      "group": "Sicurezza e sistemi",
+      "gaps": []
+    },
+    {
+      "id": "rivenditore",
+      "slug": "rivenditore",
+      "name": "Marchi a catalogo",
+      "description": "La pagina storica presenta RUD, IDEA SCALE e LAUMAS. Prodotti e condizioni di fornitura richiedono conferma.",
+      "sourceUrl": "https://www.nastritalia.it/Rivenditore.htm",
+      "image": "assets/products/2dff42-rud-1.webp",
+      "group": "Sicurezza e sistemi",
+      "gaps": [
+        "Pagina composta da loghi; nessun prodotto o accordo commerciale attuale verificabile."
+      ]
+    },
+    {
+      "id": "bilancini",
+      "slug": "bilancini",
+      "name": "Bilancino regolabile",
+      "description": "Famiglia presente nei collegamenti del sito originale. La pagina tecnica risulta attualmente non accessibile: contattaci per la configurazione.",
+      "sourceUrl": "https://www.nastritalia.it/bilancino_regolabile.htm",
+      "image": null,
+      "group": "Sicurezza e sistemi",
+      "imageNote": "Nessuna fotografia identificabile del bilancino disponibile.",
+      "gaps": [
+        "Pagina bilancino_regolabile.htm: HTTP 404 alla verifica del 29/10/2026. Nessun modello o attributo pubblicato."
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "fasce-in-poliestere-colorate",
+      "slug": "fasce-in-poliestere-colorate",
+      "name": "Fasce in poliestere colorate",
+      "category": "fasce",
+      "description": "Fasce di sollevamento colorate con asole, nella serie documentata dal catalogo di riferimento.",
+      "image": "assets/products/ba7d16-nastri-colorati-nuova.webp",
+      "imageNote": "Foto originale di famiglia: mostra più larghezze e portate, non una singola variante.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Poliestere"
+        },
+        {
+          "label": "Impiego",
+          "value": "Sollevamento"
+        },
+        {
+          "label": "Riferimento documentato",
+          "value": "EN 1492-1"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "7:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella originale — strato doppio",
+          "url": "assets/products/cbac83-fasce-strato-doppio-1.webp",
+          "sourceUrl": "https://www.nastritalia.it/tabelle/fasce_strato_doppio_1.bmp"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "variants": [
+        {
+          "name": "CEN.D — viola",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "30/50 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "1.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Viola"
+            },
+            {
+              "label": "Lunghezza asole",
+              "value": "200 mm"
+            }
+          ]
+        },
+        {
+          "name": "CEN.D — verde",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "60 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "2.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Verde"
+            },
+            {
+              "label": "Lunghezza asole",
+              "value": "270 mm"
+            }
+          ]
+        },
+        {
+          "name": "CEN.D — giallo",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "75/90 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "3.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Giallo"
+            },
+            {
+              "label": "Lunghezza asole",
+              "value": "270 mm"
+            }
+          ]
+        },
+        {
+          "name": "CEN.D — grigio",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "100/120 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "4.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Grigio"
+            },
+            {
+              "label": "Lunghezza asole",
+              "value": "300 mm"
+            }
+          ]
+        },
+        {
+          "name": "CEN.D — rosso",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "150 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "5.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Rosso"
+            },
+            {
+              "label": "Lunghezza asole",
+              "value": "400 mm"
+            }
+          ]
+        },
+        {
+          "name": "CEN.D — marrone",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "180 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "6.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Marrone"
+            },
+            {
+              "label": "Lunghezza asole",
+              "value": "500 mm"
+            }
+          ]
+        },
+        {
+          "name": "CEN.D — azzurro",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "240 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "8.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Azzurro"
+            },
+            {
+              "label": "Lunghezza asole",
+              "value": "500 mm"
+            }
+          ]
+        },
+        {
+          "name": "CEN.D — arancio",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "300 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "10.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            },
+            {
+              "label": "Lunghezza asole",
+              "value": "600 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "fasce-in-poliestere-bianche",
+      "slug": "fasce-in-poliestere-bianche",
+      "name": "Fasce in poliestere bianche",
+      "category": "fasce",
+      "description": "Fasce bianche con asole, a strato semplice o doppio.",
+      "image": "assets/products/c4340f-fb1.webp",
+      "imageNote": "Foto originale della famiglia di fasce bianche.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Poliestere"
+        },
+        {
+          "label": "Impiego",
+          "value": "Sollevamento"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "7:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella originale — strato semplice",
+          "url": "assets/products/ba0ac7-fasce-strato-semplice-1.webp",
+          "sourceUrl": "https://www.nastritalia.it/tabelle/fasce_strato_semplice_1.bmp"
+        },
+        {
+          "title": "Tabella originale — strato doppio",
+          "url": "assets/products/98f0ce-fasce-strato-doppio-2.webp",
+          "sourceUrl": "https://www.nastritalia.it/tabelle/fasce_strato_doppio_2.bmp"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "variants": [
+        {
+          "name": "BS — 35 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "35 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "400 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            }
+          ]
+        },
+        {
+          "name": "BS — 50 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "50 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "850 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            }
+          ]
+        },
+        {
+          "name": "BS — 62 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "62 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "1.060 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            }
+          ]
+        },
+        {
+          "name": "BS — 75 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "75 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "1.200 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            }
+          ]
+        },
+        {
+          "name": "BS — 100 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "100 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "1.700 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            }
+          ]
+        },
+        {
+          "name": "BD — 35 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "35 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "800 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            }
+          ]
+        },
+        {
+          "name": "BD — 50 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "50 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "1.700 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            }
+          ]
+        },
+        {
+          "name": "BD — 62 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "62 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "2.120 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            }
+          ]
+        },
+        {
+          "name": "BD — 75 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "75 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "2.400 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            }
+          ]
+        },
+        {
+          "name": "BD — 100 mm",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "100 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "3.400 kg"
+            },
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "fasce-in-poliestere-ultra",
+      "slug": "fasce-in-poliestere-ultra",
+      "name": "Fasce in poliestere Ultra",
+      "category": "fasce",
+      "description": "Fasce Ultra nelle versioni a strato semplice e doppio. Le esecuzioni delle asole sono illustrate nella fonte.",
+      "image": "assets/products/8f70d5-fasce-ultra1.webp",
+      "imageNote": "Illustrazione originale della famiglia Ultra e delle diverse esecuzioni delle asole.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Poliestere"
+        },
+        {
+          "label": "Impiego",
+          "value": "Sollevamento"
+        },
+        {
+          "label": "Riferimento documentato",
+          "value": "EN 1492-1"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "7:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella originale Ultra",
+          "url": "assets/products/98e7a4-fasce-ultra.webp",
+          "sourceUrl": "https://www.nastritalia.it/tabelle/fasce_ultra.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "variants": [
+        {
+          "name": "ULTRA 360 S",
+          "attributes": [
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "6.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "ULTRA 480 S",
+          "attributes": [
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "8.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "ULTRA 600 S",
+          "attributes": [
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "10.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "Strato semplice — 14.000 kg",
+          "attributes": [
+            {
+              "label": "Strato",
+              "value": "Semplice"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "14.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "ULTRA 360 D",
+          "attributes": [
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "12.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "ULTRA 480 D",
+          "attributes": [
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "16.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "ULTRA 600 D",
+          "attributes": [
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "20.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "Strato doppio — 28.000 kg",
+          "attributes": [
+            {
+              "label": "Strato",
+              "value": "Doppio"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "28.000 kg"
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "I codici delle due righe Ultra da 14.000 e 28.000 kg risultano ambigui nella fonte raster; le varianti sono nominate per strato e portata, senza attribuire un codice."
+      ]
+    },
+    {
+      "id": "fasce-in-poliestere-a-quattro-strati",
+      "slug": "fasce-in-poliestere-a-quattro-strati",
+      "name": "Fasce in poliestere a quattro strati",
+      "category": "fasce",
+      "description": "Fasce a quattro strati con asole ricoperte.",
+      "image": "assets/products/466a12-fbc.webp",
+      "imageNote": "Foto originale di famiglia: mostra più fasce a quattro strati.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Poliestere"
+        },
+        {
+          "label": "Impiego",
+          "value": "Sollevamento"
+        },
+        {
+          "label": "Strati",
+          "value": "4"
+        },
+        {
+          "label": "Asole",
+          "value": "Ricoperte"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "7:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella originale — quattro strati",
+          "url": "assets/products/b82090-fasce-strato-quadruplo.webp",
+          "sourceUrl": "https://www.nastritalia.it/tabelle/fasce_strato_quadruplo.bmp"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/fasce.htm",
+      "variants": [
+        {
+          "name": "CQ — 50 mm / 2.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "50 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "2.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "CQ — 60 mm / 4.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "60 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "4.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "CQ — 90 mm / 6.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "90 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "6.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "CQ — 120 mm / 8.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "120 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "8.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "CQ — 150 mm / 10.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "150 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "10.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "CQ — 180 mm / 12.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "180 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "12.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "CQ — 240 mm / 16.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "240 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "16.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "CQ — 300 mm / 20.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "300 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "20.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "CQ — 300 mm / 24.000 kg",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "300 mm"
+            },
+            {
+              "label": "Portata singola documentata",
+              "value": "24.000 kg"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "funi-tonde-ad-anello-chiuso",
+      "slug": "funi-tonde-ad-anello-chiuso",
+      "name": "Funi tonde ad anello chiuso",
+      "category": "funi-tonde",
+      "description": "Fune tonda tessile ad anello chiuso per il sollevamento.",
+      "image": "assets/products/c0152f-fune-ad-anello.webp",
+      "imageNote": "Foto originale della famiglia di funi tonde; colore e portata del singolo prodotto vanno concordati.",
+      "attributes": [
+        {
+          "label": "Configurazione",
+          "value": "Anello chiuso"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "7:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella delle portate originale",
+          "url": "assets/products/453a1d-portata-in-kg.webp",
+          "sourceUrl": "https://www.nastritalia.it/tabelle/portata_in_kg.bmp"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "variants": [
+        {
+          "name": "NFT 1",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "1.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Viola"
+            }
+          ]
+        },
+        {
+          "name": "NFT 2",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "2.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Verde"
+            }
+          ]
+        },
+        {
+          "name": "NFT 3",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "3.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Giallo"
+            }
+          ]
+        },
+        {
+          "name": "NFT 4",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "4.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Grigio"
+            }
+          ]
+        },
+        {
+          "name": "NFT 5",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "5.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Rosso"
+            }
+          ]
+        },
+        {
+          "name": "NFT 6",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "6.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Marrone"
+            }
+          ]
+        },
+        {
+          "name": "NFT 8",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "8.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Azzurro"
+            }
+          ]
+        },
+        {
+          "name": "NFT 10",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "10.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            }
+          ]
+        },
+        {
+          "name": "NFT 12",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "12.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            }
+          ]
+        },
+        {
+          "name": "NFT 15",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "15.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            }
+          ]
+        },
+        {
+          "name": "NFT 20",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "20.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            }
+          ]
+        },
+        {
+          "name": "NFT 25",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "25.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            }
+          ]
+        },
+        {
+          "name": "NFT 30",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "30.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            }
+          ]
+        },
+        {
+          "name": "NFT 40",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "40.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            }
+          ]
+        },
+        {
+          "name": "NFT 50",
+          "attributes": [
+            {
+              "label": "Portata singola documentata",
+              "value": "50.000 kg"
+            },
+            {
+              "label": "Colore",
+              "value": "Arancio"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "anelli-a-perdere",
+      "slug": "anelli-a-perdere",
+      "name": "Anelli a perdere",
+      "category": "funi-tonde",
+      "description": "Anelli in poliestere disponibili in diversi sviluppi, colori e portate secondo il catalogo originale.",
+      "image": "assets/products/cfeddc-anelli1.webp",
+      "imageNote": "Foto originale di famiglia; portate e misure non sono indicate nella pagina.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Poliestere"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "pendenti-in-poliestere-a-uno-o-piu-bracci",
+      "slug": "pendenti-in-poliestere-a-uno-o-piu-bracci",
+      "name": "Pendenti in poliestere a uno o più bracci",
+      "category": "funi-tonde",
+      "description": "Pendenti composti con funi tonde ad anello chiuso inguainate.",
+      "image": "assets/products/043294-pendenti.webp",
+      "imageNote": "Tavola originale della famiglia con disegni e codici N-260, N-270 e N-280.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Poliestere"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/funi_tonde.htm",
+      "variants": [
+        {
+          "name": "N-260",
+          "attributes": [
+            {
+              "label": "Bracci",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "N-270",
+          "attributes": [
+            {
+              "label": "Bracci",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "name": "N-280",
+          "attributes": [
+            {
+              "label": "Bracci",
+              "value": "4"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "cricchetti-di-ancoraggio-tipo-a",
+      "slug": "cricchetti-di-ancoraggio-tipo-a",
+      "name": "Cricchetti di ancoraggio tipo A",
+      "category": "cricchetti",
+      "description": "Sistemi di ancoraggio con ganci terminali, nastro in poliestere e cricchetto.",
+      "image": "assets/products/db18e3-cricchetto.webp",
+      "imageNote": "Foto originale di famiglia con i cinque tipi A affiancati.",
+      "attributes": [
+        {
+          "label": "Materiale nastro",
+          "value": "Poliestere 100%"
+        },
+        {
+          "label": "Riferimento documentato",
+          "value": "EN 12195-2"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella e terminali originali",
+          "url": "assets/products/5e9de9-cricchetto1.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/cricchetto1.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "variants": [
+        {
+          "name": "25 A",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "25 mm"
+            }
+          ]
+        },
+        {
+          "name": "28 A",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "28 mm"
+            }
+          ]
+        },
+        {
+          "name": "35 A",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "35 mm"
+            }
+          ]
+        },
+        {
+          "name": "50 A / E",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "50 mm"
+            }
+          ]
+        },
+        {
+          "name": "75 A",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "75 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "cricchetti-di-ancoraggio-tipo-b",
+      "slug": "cricchetti-di-ancoraggio-tipo-b",
+      "name": "Cricchetti di ancoraggio tipo B",
+      "category": "cricchetti",
+      "description": "Sistema di ancoraggio ad anello con cricchetto e nastro in poliestere.",
+      "image": "assets/products/98317b-cricchetto2.webp",
+      "imageNote": "Scheda originale del tipo B con fotografia rappresentativa e tabella.",
+      "attributes": [
+        {
+          "label": "Materiale nastro",
+          "value": "Poliestere 100%"
+        },
+        {
+          "label": "Configurazione",
+          "value": "Ad anello"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "variants": [
+        {
+          "name": "25 mm",
+          "attributes": [
+            {
+              "label": "Carico di lavoro documentato",
+              "value": "800 kg"
+            }
+          ]
+        },
+        {
+          "name": "28 mm",
+          "attributes": [
+            {
+              "label": "Carico di lavoro documentato",
+              "value": "1.500 kg"
+            }
+          ]
+        },
+        {
+          "name": "35 mm",
+          "attributes": [
+            {
+              "label": "Carico di lavoro documentato",
+              "value": "3.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "50 mm",
+          "attributes": [
+            {
+              "label": "Carico di lavoro documentato",
+              "value": "5.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "75 mm",
+          "attributes": [
+            {
+              "label": "Carico di lavoro documentato",
+              "value": "10.000 kg"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "ancoraggio-per-lastre-di-marmo-n-140",
+      "slug": "ancoraggio-per-lastre-di-marmo-n-140",
+      "name": "Ancoraggio per lastre di marmo N-140",
+      "category": "cricchetti",
+      "description": "Dispositivo per fissare lastre di marmo sui camion, con antisfilo e ganci terminali ad occhio con sicurezza.",
+      "image": "assets/products/abc76b-cric1.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-140"
+        },
+        {
+          "label": "Larghezza cricchetto",
+          "value": "50 mm"
+        },
+        {
+          "label": "Lunghezza totale",
+          "value": "1.300 mm"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "ancoraggio-per-strutture-telonate-n-360",
+      "slug": "ancoraggio-per-strutture-telonate-n-360",
+      "name": "Ancoraggio per strutture telonate N-360",
+      "category": "cricchetti",
+      "description": "Dispositivo per il fissaggio del tetto su strutture telomontate in PVC; la fonte indica diversi colori e personalizzazione.",
+      "image": "assets/products/749480-cric3.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-360"
+        },
+        {
+          "label": "Impiego",
+          "value": "Strutture telomontate in PVC"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "sistema-di-ancoraggio-a-perdere",
+      "slug": "sistema-di-ancoraggio-a-perdere",
+      "name": "Sistema di ancoraggio a perdere",
+      "category": "cricchetti",
+      "description": "Sistema a perdere per trasporti via mare e ferroviari, composto da tendinastro e fibbia.",
+      "image": "assets/products/2b3f1f-anel2.webp",
+      "imageNote": "Tavola originale del sistema a perdere con fotografie dei due componenti.",
+      "attributes": [
+        {
+          "label": "Larghezza nastro",
+          "value": "50 mm"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/cricchetti_per_ancoraggio.htm",
+      "variants": [
+        {
+          "name": "N-148",
+          "attributes": [
+            {
+              "label": "Componente",
+              "value": "Cricchetto tendinastro a perdere"
+            }
+          ]
+        },
+        {
+          "name": "N-149",
+          "attributes": [
+            {
+              "label": "Componente",
+              "value": "Fibbia a perdere"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "ancoraggio-bz-25",
+      "slug": "ancoraggio-bz-25",
+      "name": "Ancoraggio BZ 25",
+      "category": "hobbistica",
+      "description": "Sistema di ancoraggio completo di fibbia e nastro.",
+      "image": "assets/products/d504be-ancoraggiobz25.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Articolo",
+          "value": "BZ 25"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "La fonte non specifica misure e caratteristiche complete; richiedere conferma."
+      ]
+    },
+    {
+      "id": "ancoraggio-25-ursus",
+      "slug": "ancoraggio-25-ursus",
+      "name": "Ancoraggio 25 URSUS",
+      "category": "hobbistica",
+      "description": "Sistema di ancoraggio con cricchetto.",
+      "image": "assets/products/b60fd9-ancoraggioursus.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Articolo",
+          "value": "25 URSUS"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "La fonte non specifica misure e caratteristiche complete; richiedere conferma."
+      ]
+    },
+    {
+      "id": "ancoraggio-motociclette-am",
+      "slug": "ancoraggio-motociclette-am",
+      "name": "Ancoraggio motociclette AM",
+      "category": "hobbistica",
+      "description": "Sistema di ancoraggio completo per motociclette.",
+      "image": "assets/products/96d0f7-ancoraggiomotocicletteam.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Articolo",
+          "value": "AM"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "La fonte non specifica misure e caratteristiche complete; richiedere conferma."
+      ]
+    },
+    {
+      "id": "ancoraggio-motociclette-am1",
+      "slug": "ancoraggio-motociclette-am1",
+      "name": "Ancoraggio motociclette AM1",
+      "category": "hobbistica",
+      "description": "Sistema di ancoraggio completo per motociclette.",
+      "image": "assets/products/a01bcd-ancoraggiomotociclette.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Articolo",
+          "value": "AM1"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "La fonte non specifica misure e caratteristiche complete; richiedere conferma."
+      ]
+    },
+    {
+      "id": "cricchetto-28a",
+      "slug": "cricchetto-28a",
+      "name": "Cricchetto 28A",
+      "category": "hobbistica",
+      "description": "Cricchetto completo di ganci.",
+      "image": "assets/products/b44724-cricchetto28a.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Articolo",
+          "value": "28A"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "La fonte non specifica misure e caratteristiche complete; richiedere conferma."
+      ]
+    },
+    {
+      "id": "cricchetto-35a-b",
+      "slug": "cricchetto-35a-b",
+      "name": "Cricchetto 35A / B",
+      "category": "hobbistica",
+      "description": "Cricchetto completo di ganci e versione ad anello.",
+      "image": "assets/products/4b175f-cricchettiganci.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Articolo",
+          "value": "35A / B"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "La fonte non specifica misure e caratteristiche complete; richiedere conferma."
+      ]
+    },
+    {
+      "id": "cricchetto-50a-b",
+      "slug": "cricchetto-50a-b",
+      "name": "Cricchetto 50A / B",
+      "category": "hobbistica",
+      "description": "Cricchetto completo di ganci alle estremità e versione ad anello.",
+      "image": "assets/products/84700f-cricchettiganciestremita.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Articolo",
+          "value": "50A / B"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "La fonte non specifica misure e caratteristiche complete; richiedere conferma."
+      ]
+    },
+    {
+      "id": "traini-ts1",
+      "slug": "traini-ts1",
+      "name": "Traini TS1",
+      "category": "hobbistica",
+      "description": "Traini presentati nella linea nautica e hobbistica.",
+      "image": "assets/products/cc71d5-traini.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Articolo",
+          "value": "TS1 / 2.500 / 5.000"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "La fonte non specifica misure e caratteristiche complete; richiedere conferma."
+      ]
+    },
+    {
+      "id": "cinghie-per-cestelli",
+      "slug": "cinghie-per-cestelli",
+      "name": "Cinghie per cestelli",
+      "category": "hobbistica",
+      "description": "Cinghie con fibbia per cestelli, nella gamma nautica e hobbistica.",
+      "image": "assets/products/e39c62-hb2.webp",
+      "imageNote": "Foto originale di famiglia con diverse cinghie.",
+      "attributes": [],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": [
+        "Misure e caratteristiche tecniche non disponibili nella pagina originale."
+      ]
+    },
+    {
+      "id": "ancoraggio-per-trasporto-marittimo-barche",
+      "slug": "ancoraggio-per-trasporto-marittimo-barche",
+      "name": "Ancoraggio per trasporto marittimo barche",
+      "category": "hobbistica",
+      "description": "Sistema di ancoraggio per il trasporto marittimo di barche.",
+      "image": "assets/products/da9fd6-hb1.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Impiego",
+          "value": "Trasporto marittimo barche"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/hobbystica.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-101",
+      "slug": "parte-metallica-101",
+      "name": "Cricchetto 75 mm N-101",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-101-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-101"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "10.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/3b389c-101.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/101.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-102",
+      "slug": "parte-metallica-102",
+      "name": "Cricchetto 50 mm — doppio bloccaggio N-102 / N-103",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-102-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-102 / N-103"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "5.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/8c52c3-102.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/102.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [
+        {
+          "name": "N-102",
+          "attributes": [
+            {
+              "label": "Carico di rottura documentato",
+              "value": "5.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "N-103",
+          "attributes": [
+            {
+              "label": "Carico di rottura documentato",
+              "value": "6.000 kg"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-104",
+      "slug": "parte-metallica-104",
+      "name": "Cricchetto 50 mm ergonomico — doppio bloccaggio N-104 / N-105",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-104-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-104 / N-105"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "5.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/0db3a1-104-105.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/104-105.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [
+        {
+          "name": "N-104",
+          "attributes": [
+            {
+              "label": "Carico di rottura documentato",
+              "value": "5.000 kg"
+            }
+          ]
+        },
+        {
+          "name": "N-105",
+          "attributes": [
+            {
+              "label": "Carico di rottura documentato",
+              "value": "6.000 kg"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-106",
+      "slug": "parte-metallica-106",
+      "name": "Cricchetto 50 mm per interni N-106",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-106-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-106"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "2.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/17d5b1-106.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/106.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-107",
+      "slug": "parte-metallica-107",
+      "name": "Cricchetto 35 mm — doppio bloccaggio N-107",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-107-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-107"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "3.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/7f48b6-107.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/107.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-108",
+      "slug": "parte-metallica-108",
+      "name": "Cricchetto 35 mm N-108",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-108-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-108"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "2.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/173855-108.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/108.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-109",
+      "slug": "parte-metallica-109",
+      "name": "Cricchetto 28 mm N-109",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-109-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-109"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.500 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/55ae77-109.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/109.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-110",
+      "slug": "parte-metallica-110",
+      "name": "Cricchetto 25 mm N-110",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-110-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-110"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "800 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/8a7242-110.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/110.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-111",
+      "slug": "parte-metallica-111",
+      "name": "Cricchetto 25 mm nero N-111",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-111-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-111"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "800 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/aba094-111.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/111.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-112",
+      "slug": "parte-metallica-112",
+      "name": "Blizzar 50 mm N-112",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-112-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-112"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.400 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/69ad70-112.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/112.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-113",
+      "slug": "parte-metallica-113",
+      "name": "Blizzar 35 mm N-113",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-113-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-113"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/9f8696-113.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/113.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-114",
+      "slug": "parte-metallica-114",
+      "name": "Blizzar 25 mm N-114",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-114-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-114"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "300 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/6b38ee-114.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/114.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-115",
+      "slug": "parte-metallica-115",
+      "name": "Tenditore per Carlashing 25 mm N-115",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-115-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-115"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.500 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/47a5ba-115.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/115.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-116",
+      "slug": "parte-metallica-116",
+      "name": "Tenditore per teloni N-116",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-116-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-116"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.400 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/f8e63e-116.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/116.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-117",
+      "slug": "parte-metallica-117",
+      "name": "Gancio per Carlashing 25 mm N-117",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-117-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-117"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.500 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/a3b364-117.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/117.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-118",
+      "slug": "parte-metallica-118",
+      "name": "Gancio per teloni N-118",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-118-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-118"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.500 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/6d32b6-118.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/118.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-119",
+      "slug": "parte-metallica-119",
+      "name": "Gancio uncino 75 mm N-119",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-119-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-119"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "10.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/9ef369-119.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/119.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-120",
+      "slug": "parte-metallica-120",
+      "name": "Gancio uncino 50 mm N-120",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-120-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-120"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "5.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/ee5670-120.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/120.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-121",
+      "slug": "parte-metallica-121",
+      "name": "Gancio uncino a un dito 50 mm N-121",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-121-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-121"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "6.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/8afb73-121.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/121.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-122",
+      "slug": "parte-metallica-122",
+      "name": "Gancio uncino 35 mm N-122",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-122-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-122"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "3.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/9a8195-122.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/122.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-123",
+      "slug": "parte-metallica-123",
+      "name": "Gancio uncino 28 mm plastificato N-123",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-123-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-123"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.500 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/7dfd46-123.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/123.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-124",
+      "slug": "parte-metallica-124",
+      "name": "Gancio sponda 50 mm N-124",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-124-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-124"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "5.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/5d5c6e-124.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/124.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-125",
+      "slug": "parte-metallica-125",
+      "name": "Gancio sponda 35 mm N-125",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-125-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-125"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "3.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/6b57ff-125.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/125.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-126",
+      "slug": "parte-metallica-126",
+      "name": "Gancio per interni 50 mm N-126",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-126-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-126"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "1.500 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/cdf623-126.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/126.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-127",
+      "slug": "parte-metallica-127",
+      "name": "Gancio a triangolo 75 mm N-127",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-127-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-127"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "10.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/2bc3fc-127.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/127.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-128",
+      "slug": "parte-metallica-128",
+      "name": "Gancio a triangolo 50 mm N-128 / N-129",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-128-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-128 / N-129"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "5.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/43cf30-128-129.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/128-129.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [
+        {
+          "name": "N-128",
+          "attributes": [
+            {
+              "label": "Esecuzione",
+              "value": "Tranciato"
+            }
+          ]
+        },
+        {
+          "name": "N-129",
+          "attributes": [
+            {
+              "label": "Esecuzione",
+              "value": "Tondo"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-130",
+      "slug": "parte-metallica-130",
+      "name": "Gancio a S diametro 8 mm plastificato N-130",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-130-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-130"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "900 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/14d376-130.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/130.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-131",
+      "slug": "parte-metallica-131",
+      "name": "Gancio a S diametro 7 mm plastificato N-131",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-131-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-131"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "750 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/73dd02-131.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/131.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-132",
+      "slug": "parte-metallica-132",
+      "name": "Gancio filo per cestelli 25 mm N-132",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-132-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-132"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "300 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/c132a4-132.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/132.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-133",
+      "slug": "parte-metallica-133",
+      "name": "Gancio girevole 50 mm N-133",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-133-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-133"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "5.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/1a18c5-133.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/133.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-134",
+      "slug": "parte-metallica-134",
+      "name": "Gancio piatto a 90° N-134",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-134-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-134"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "5.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/782118-134.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/134.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-139",
+      "slug": "parte-metallica-139",
+      "name": "Gancio a triangolo 35 mm tranciato N-139",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-139-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-139"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "3.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/ecdb90-139.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/139.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-140",
+      "slug": "parte-metallica-140",
+      "name": "Gancio a triangolo 35 mm tondo N-140",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-140-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-140"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "3.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/010eea-140.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/140.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-141",
+      "slug": "parte-metallica-141",
+      "name": "Gancio a un dito con tondino N-141 / N-142",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-141-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-141 / N-142"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/5159c6-141-142.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/141-142.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [
+        {
+          "name": "N-141",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "35 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-142",
+          "attributes": [
+            {
+              "label": "Larghezza",
+              "value": "50 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-143",
+      "slug": "parte-metallica-143",
+      "name": "Gancio uncino a un dito 35 mm N-143",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-143-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-143"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "3.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/c8d315-143.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/143.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-144",
+      "slug": "parte-metallica-144",
+      "name": "Cricchetto senza maniglia 50 mm N-144",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-144-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-144"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "4.500 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/f5ebde-144.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/144.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-145",
+      "slug": "parte-metallica-145",
+      "name": "Maniglia per cricchetto N-145",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-145-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-145"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "4.500 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/37f58a-145.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/145.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-146",
+      "slug": "parte-metallica-146",
+      "name": "Cricchetto 100 mm N-146",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-146-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-146"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "10.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/4491cb-146.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/146.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "parte-metallica-147",
+      "slug": "parte-metallica-147",
+      "name": "Cricchetto 50 mm blu — doppio bloccaggio N-147",
+      "category": "parti-metalliche",
+      "description": "Componente metallico della gamma di ancoraggio documentata, identificato dal codice originale.",
+      "image": "assets/products/parte-metallica-147-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-147"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "6.000 kg"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/931d05-147.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/147.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "tornichetto-per-camion-n-135",
+      "slug": "tornichetto-per-camion-n-135",
+      "name": "Tornichetto per camion N-135",
+      "category": "parti-metalliche",
+      "description": "Tornichetto per camion, codice N-135 nel catalogo originale.",
+      "image": "assets/products/2c5674-05.webp",
+      "imageNote": "Miniatura originale della famiglia parti metalliche; immagine specifica non disponibile.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-135"
+        },
+        {
+          "label": "Carico di rottura documentato",
+          "value": "4.000 kg"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": [
+        "La fotografia originale Tornichettocamion.jpg restituisce HTTP 404."
+      ]
+    },
+    {
+      "id": "barra-fermacarico-n-136",
+      "slug": "barra-fermacarico-n-136",
+      "name": "Barra fermacarico N-136",
+      "category": "parti-metalliche",
+      "description": "Barra regolabile per il fermo del carico.",
+      "image": "assets/products/fd1b6a-b1.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-136"
+        },
+        {
+          "label": "Regolazione",
+          "value": "2.280–2.650 mm"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "barra-fermacarico-n-137",
+      "slug": "barra-fermacarico-n-137",
+      "name": "Barra fermacarico N-137",
+      "category": "parti-metalliche",
+      "description": "Barra regolabile per il fermo del carico.",
+      "image": "assets/products/8b0a06-b2.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-137"
+        },
+        {
+          "label": "Regolazione",
+          "value": "2.060–2.670 mm"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "barra-fermacarico-n-138",
+      "slug": "barra-fermacarico-n-138",
+      "name": "Barra fermacarico N-138",
+      "category": "parti-metalliche",
+      "description": "Barra regolabile per il fermo del carico.",
+      "image": "assets/products/1ad0ea-b3.webp",
+      "imageNote": "Immagine originale del prodotto o della configurazione pubblicata nella fonte.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-138"
+        },
+        {
+          "label": "Regolazione",
+          "value": "970–1.700 mm"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/parti_metalliche.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "guaina-tubolare-gommata",
+      "slug": "guaina-tubolare-gommata",
+      "name": "Guaina tubolare gommata",
+      "category": "protezioni",
+      "description": "Guaina tubolare gommata per proteggere il nastro.",
+      "image": "assets/products/guaina-tubolare-gommata-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Gommato"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/ccfeaf-gt1.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/gt1.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "variants": [
+        {
+          "name": "N-220",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "35 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-221",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "50 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-222",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "62 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-223",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "75 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-224",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "90 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-225",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "100 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-226",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "120 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-227",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "150 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-228",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "200 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-229",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "250 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-230",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "300 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "guaina-tubolare-in-poliuretano",
+      "slug": "guaina-tubolare-in-poliuretano",
+      "name": "Guaina tubolare in poliuretano",
+      "category": "protezioni",
+      "description": "Guaina tubolare in poliuretano per la protezione del nastro.",
+      "image": "assets/products/guaina-tubolare-in-poliuretano-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Poliuretano"
+        },
+        {
+          "label": "Spessore",
+          "value": "5 mm"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/ccfeaf-gt1.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/gt1.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "variants": [
+        {
+          "name": "N-240",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "50 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-241",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "60/65 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-242",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "75 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-243",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "100 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-244",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "150 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-245",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "200 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-246",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "250 mm"
+            }
+          ]
+        },
+        {
+          "name": "N-247",
+          "attributes": [
+            {
+              "label": "Larghezza nastro",
+              "value": "300 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "paraspigoli-per-nastro-n-250",
+      "slug": "paraspigoli-per-nastro-n-250",
+      "name": "Paraspigoli per nastro N-250",
+      "category": "protezioni",
+      "description": "Protezione del nastro in corrispondenza degli spigoli del carico.",
+      "image": "assets/products/paraspigoli-per-nastro-n-250-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-250"
+        },
+        {
+          "label": "Larghezza nastro",
+          "value": "35/50 mm"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/770d57-gt2.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/gt2.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "paraspigoli-per-nastro-n-251",
+      "slug": "paraspigoli-per-nastro-n-251",
+      "name": "Paraspigoli per nastro N-251",
+      "category": "protezioni",
+      "description": "Protezione del nastro in corrispondenza degli spigoli del carico.",
+      "image": "assets/products/paraspigoli-per-nastro-n-251-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-251"
+        },
+        {
+          "label": "Larghezza nastro",
+          "value": "50/62/75/90/100 mm"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/770d57-gt2.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/gt2.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "cuscinetti-in-poliestere-n-252",
+      "slug": "cuscinetti-in-poliestere-n-252",
+      "name": "Cuscinetti in poliestere N-252",
+      "category": "protezioni",
+      "description": "Protezione del nastro in corrispondenza degli spigoli del carico.",
+      "image": "assets/products/cuscinetti-in-poliestere-n-252-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-252"
+        },
+        {
+          "label": "Larghezza nastro",
+          "value": "fino a 300 mm"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale completa",
+          "url": "assets/products/770d57-gt2.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/gt2.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/guaine_paraspigoli_e_barre.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "pinza-per-lamiere-np",
+      "slug": "pinza-per-lamiere-np",
+      "name": "Pinza per lamiere NP",
+      "category": "pinze-paranchi",
+      "description": "Pinza con attacco standard per presa verticale delle lamiere.",
+      "image": "assets/products/pinza-per-lamiere-np-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Attacco",
+          "value": "Standard"
+        },
+        {
+          "label": "Presa",
+          "value": "Verticale"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/20824c-clamp2.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/clamp2.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "variants": [
+        {
+          "name": "NP-1000",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "1,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–22 mm"
+            }
+          ]
+        },
+        {
+          "name": "NP-2000",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "2,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–30 mm"
+            }
+          ]
+        },
+        {
+          "name": "NP-3000",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "3,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–40 mm"
+            }
+          ]
+        },
+        {
+          "name": "NP-5000",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "5,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–50 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "pinza-per-lamiere-npu",
+      "slug": "pinza-per-lamiere-npu",
+      "name": "Pinza per lamiere NPU",
+      "category": "pinze-paranchi",
+      "description": "Pinza con attacco con snodo per presa verticale e orizzontale.",
+      "image": "assets/products/pinza-per-lamiere-npu-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Attacco",
+          "value": "Con snodo"
+        },
+        {
+          "label": "Presa",
+          "value": "Verticale e orizzontale"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/129dd4-clamp3.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/clamp3.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "variants": [
+        {
+          "name": "NPU-750",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "0,75 t"
+            }
+          ]
+        },
+        {
+          "name": "NPU-1000",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "1,00 t"
+            }
+          ]
+        },
+        {
+          "name": "NPU-2000",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "2,00 t"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "pinza-per-lamiere-nph",
+      "slug": "pinza-per-lamiere-nph",
+      "name": "Pinza per lamiere NPH",
+      "category": "pinze-paranchi",
+      "description": "Pinza con attacco a staffa per presa in orizzontale.",
+      "image": "assets/products/pinza-per-lamiere-nph-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Attacco",
+          "value": "A staffa"
+        },
+        {
+          "label": "Presa",
+          "value": "Orizzontale"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/4bdb1c-clamp4.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/clamp4.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/pinze_paranchi_e_carrucole.htm",
+      "variants": [
+        {
+          "name": "NPH-500",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "0,50 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–35 mm"
+            }
+          ]
+        },
+        {
+          "name": "NPH-1000S",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "1,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–60 mm"
+            }
+          ]
+        },
+        {
+          "name": "NPH-1000L",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "1,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–100 mm"
+            }
+          ]
+        },
+        {
+          "name": "NPH-2000S",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "2,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–60 mm"
+            }
+          ]
+        },
+        {
+          "name": "NPH-2000L",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "2,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–100 mm"
+            }
+          ]
+        },
+        {
+          "name": "NPH-3000S",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "3,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–60 mm"
+            }
+          ]
+        },
+        {
+          "name": "NPH-3000L",
+          "attributes": [
+            {
+              "label": "Portata documentata",
+              "value": "3,00 t"
+            },
+            {
+              "label": "Apertura",
+              "value": "0–100 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-cavo-aa-rr",
+      "slug": "tirante-in-cavo-aa-rr",
+      "name": "Tirante in cavo AA / RR",
+      "category": "tiranti-cavo",
+      "description": "Tiranti ad asole o con redance, con fune ad anima tessile.",
+      "image": "assets/products/ab6dc5-tiranti.webp",
+      "imageNote": "Tavola originale della famiglia con disegno e tabella tecnica.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "AA / RR"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-cavo-a-aaa",
+      "slug": "tirante-in-cavo-a-aaa",
+      "name": "Tirante in cavo A / AAA",
+      "category": "tiranti-cavo",
+      "description": "Tiranti in cavo con configurazione ad anello.",
+      "image": "assets/products/dfc2e7-tiranti1.webp",
+      "imageNote": "Tavola originale della famiglia con disegno e tabella tecnica.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "A / AAA"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-cavo-cng",
+      "slug": "tirante-in-cavo-cng",
+      "name": "Tirante in cavo CNG",
+      "category": "tiranti-cavo",
+      "description": "Tirante in cavo a un braccio.",
+      "image": "assets/products/654973-tiranti1braccio.webp",
+      "imageNote": "Disegno tecnico originale del tirante.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "CNG"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella originale",
+          "url": "assets/products/fe1903-cng.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/cng.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-cavo-cn2g",
+      "slug": "tirante-in-cavo-cn2g",
+      "name": "Tirante in cavo CN2G",
+      "category": "tiranti-cavo",
+      "description": "Tirante in cavo a due bracci.",
+      "image": "assets/products/0c9a50-tiranti2bracci.webp",
+      "imageNote": "Disegno tecnico originale del tirante.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "CN2G"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella originale",
+          "url": "assets/products/e18a25-cn2g.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/cn2g.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-cavo-cn4g",
+      "slug": "tirante-in-cavo-cn4g",
+      "name": "Tirante in cavo CN4G",
+      "category": "tiranti-cavo",
+      "description": "Tirante in cavo a quattro bracci.",
+      "image": "assets/products/82a9cc-tiranti4bracci.webp",
+      "imageNote": "Disegno tecnico originale del tirante.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "CN4G"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella originale",
+          "url": "assets/products/fb2c9e-cn4g-scheda.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/cn4g_scheda.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-cavo-cps",
+      "slug": "tirante-in-cavo-cps",
+      "name": "Tirante in cavo CPS",
+      "category": "tiranti-cavo",
+      "description": "Tirante in cavo a scorsoio.",
+      "image": "assets/products/994125-tirantiscorsoio.webp",
+      "imageNote": "Disegno tecnico originale del tirante.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "CPS"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella originale",
+          "url": "assets/products/894346-cps-scheda.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/cps_scheda.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_in_cavo.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "gancio-320-a-c",
+      "slug": "gancio-320-a-c",
+      "name": "Gancio 320 A / C",
+      "category": "accessori-tiranti",
+      "description": "Gancio per la composizione di sistemi di sollevamento.",
+      "image": "assets/products/ae0a27-ganci320c.webp",
+      "imageNote": "Disegno tecnico originale del componente.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "320 A / C"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella dimensionale originale",
+          "url": "assets/products/b1c0c1-ac322.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/ac322.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "gancio-girevole-322-a-c",
+      "slug": "gancio-girevole-322-a-c",
+      "name": "Gancio girevole 322 A / C",
+      "category": "accessori-tiranti",
+      "description": "Gancio girevole per la composizione di sistemi di sollevamento.",
+      "image": "assets/products/401d33-ganci322c.webp",
+      "imageNote": "Disegno tecnico originale del componente.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "322 A / C"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella dimensionale originale",
+          "url": "assets/products/b1c0c1-ac322.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/ac322.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "campanella-speciale-cn",
+      "slug": "campanella-speciale-cn",
+      "name": "Campanella speciale CN",
+      "category": "accessori-tiranti",
+      "description": "Campanella speciale per la composizione di sistemi di sollevamento.",
+      "image": "assets/products/aa1ce7-campanelle.webp",
+      "imageNote": "Disegno tecnico originale del componente.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "CN"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "4:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella dimensionale originale",
+          "url": "assets/products/d7a2d4-cn.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/cn.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "campanella-speciale-composta-cnt",
+      "slug": "campanella-speciale-composta-cnt",
+      "name": "Campanella speciale composta CNT",
+      "category": "accessori-tiranti",
+      "description": "Campanella speciale composta per la composizione di sistemi di sollevamento.",
+      "image": "assets/products/ee6d99-campanellecomposte.webp",
+      "imageNote": "Disegno tecnico originale del componente.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "CNT"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "4:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella dimensionale originale",
+          "url": "assets/products/9768ea-cnt.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/cnt.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "grillo-a-cuore-serie-americana-g-209",
+      "slug": "grillo-a-cuore-serie-americana-g-209",
+      "name": "Grillo a cuore serie americana G-209",
+      "category": "accessori-tiranti",
+      "description": "Grillo a cuore serie americana per la composizione di sistemi di sollevamento.",
+      "image": "assets/products/a22433-grillicuore.webp",
+      "imageNote": "Disegno tecnico originale del componente.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "G-209"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella dimensionale originale",
+          "url": "assets/products/4d02f1-g209.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/g209.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "grillo-uni-1947-g-uni",
+      "slug": "grillo-uni-1947-g-uni",
+      "name": "Grillo UNI 1947 G-UNI",
+      "category": "accessori-tiranti",
+      "description": "Grillo UNI 1947 per la composizione di sistemi di sollevamento.",
+      "image": "assets/products/62865f-grilliuni.webp",
+      "imageNote": "Disegno tecnico originale del componente.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "G-UNI"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "5:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tabella dimensionale originale",
+          "url": "assets/products/781ada-guni.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/guni.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/accessori_per_tiranti.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "fune-inox-aisi-316",
+      "slug": "fune-inox-aisi-316",
+      "name": "Fune inox AISI 316",
+      "category": "funi-acciaio",
+      "description": "Fune metallica nelle formazioni illustrate dal catalogo originale. Diametro e configurazione devono essere definiti per l’impiego.",
+      "image": "assets/products/f71cf4-f1.webp",
+      "imageNote": "Scheda tecnica raster originale con sezione della fune e tabella; non è una fotografia del prodotto.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Acciaio inox AISI 316"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale",
+          "url": "assets/products/f71cf4-f1.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/f1.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "variants": [
+        {
+          "name": "19 Sp.",
+          "attributes": []
+        },
+        {
+          "name": "133 f.",
+          "attributes": []
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "fune-lucida-antigirevole-133-e",
+      "slug": "fune-lucida-antigirevole-133-e",
+      "name": "Fune lucida antigirevole 133 E",
+      "category": "funi-acciaio",
+      "description": "Fune metallica nelle formazioni illustrate dal catalogo originale. Diametro e configurazione devono essere definiti per l’impiego.",
+      "image": "assets/products/18362a-f2.webp",
+      "imageNote": "Scheda tecnica raster originale con sezione della fune e tabella; non è una fotografia del prodotto.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Acciaio lucido"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale",
+          "url": "assets/products/18362a-f2.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/f2.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "variants": [
+        {
+          "name": "133 E",
+          "attributes": []
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "fune-lucida-con-anima-tessile",
+      "slug": "fune-lucida-con-anima-tessile",
+      "name": "Fune lucida con anima tessile",
+      "category": "funi-acciaio",
+      "description": "Fune metallica nelle formazioni illustrate dal catalogo originale. Diametro e configurazione devono essere definiti per l’impiego.",
+      "image": "assets/products/12b42d-f3.webp",
+      "imageNote": "Scheda tecnica raster originale con sezione della fune e tabella; non è una fotografia del prodotto.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Acciaio lucido"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale",
+          "url": "assets/products/12b42d-f3.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/f3.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "variants": [
+        {
+          "name": "114 T",
+          "attributes": []
+        },
+        {
+          "name": "222 T",
+          "attributes": []
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "fune-lucida-con-anima-in-acciaio",
+      "slug": "fune-lucida-con-anima-in-acciaio",
+      "name": "Fune lucida con anima in acciaio",
+      "category": "funi-acciaio",
+      "description": "Fune metallica nelle formazioni illustrate dal catalogo originale. Diametro e configurazione devono essere definiti per l’impiego.",
+      "image": "assets/products/d19e13-f4.webp",
+      "imageNote": "Scheda tecnica raster originale con sezione della fune e tabella; non è una fotografia del prodotto.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Acciaio lucido"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale",
+          "url": "assets/products/d19e13-f4.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/f4.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "variants": [
+        {
+          "name": "216 M",
+          "attributes": []
+        },
+        {
+          "name": "114 M",
+          "attributes": []
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "fune-lucida-per-elevatori-e-gru",
+      "slug": "fune-lucida-per-elevatori-e-gru",
+      "name": "Fune lucida per elevatori e gru",
+      "category": "funi-acciaio",
+      "description": "Fune metallica nelle formazioni illustrate dal catalogo originale. Diametro e configurazione devono essere definiti per l’impiego.",
+      "image": "assets/products/13e55e-zaq1.webp",
+      "imageNote": "Scheda tecnica raster originale con sezione della fune e tabella; non è una fotografia del prodotto.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Acciaio lucido"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale",
+          "url": "assets/products/13e55e-zaq1.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/zaq1.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "variants": [
+        {
+          "name": "114 T",
+          "attributes": []
+        },
+        {
+          "name": "216 T",
+          "attributes": []
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "fune-lucida-con-anima-metallica",
+      "slug": "fune-lucida-con-anima-metallica",
+      "name": "Fune lucida con anima metallica",
+      "category": "funi-acciaio",
+      "description": "Fune metallica nelle formazioni illustrate dal catalogo originale. Diametro e configurazione devono essere definiti per l’impiego.",
+      "image": "assets/products/101722-zaq2.webp",
+      "imageNote": "Scheda tecnica raster originale con sezione della fune e tabella; non è una fotografia del prodotto.",
+      "attributes": [
+        {
+          "label": "Materiale",
+          "value": "Acciaio lucido"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda tecnica originale",
+          "url": "assets/products/101722-zaq2.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/zaq2.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/funi_in_acciaio.htm",
+      "variants": [
+        {
+          "name": "156 M",
+          "attributes": []
+        },
+        {
+          "name": "216 M",
+          "attributes": []
+        },
+        {
+          "name": "216 M.A.R.",
+          "attributes": []
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-catena-sos",
+      "slug": "tirante-in-catena-sos",
+      "name": "Tirante in catena SOS",
+      "category": "catene",
+      "description": "Tirante in catena grado 80 con ganci terminali.",
+      "image": "assets/products/tirante-in-catena-sos-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "SOS"
+        },
+        {
+          "label": "Bracci",
+          "value": "1"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "4:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/c882eb-tiposos.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/Tiposos.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [
+        {
+          "name": "SOS 7",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "7 mm"
+            }
+          ]
+        },
+        {
+          "name": "SOS 8",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "8 mm"
+            }
+          ]
+        },
+        {
+          "name": "SOS 10",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "10 mm"
+            }
+          ]
+        },
+        {
+          "name": "SOS 13",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "13 mm"
+            }
+          ]
+        },
+        {
+          "name": "SOS 16",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "16 mm"
+            }
+          ]
+        },
+        {
+          "name": "SOS 20",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "20 mm"
+            }
+          ]
+        },
+        {
+          "name": "SOS 22",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "22 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-catena-dos",
+      "slug": "tirante-in-catena-dos",
+      "name": "Tirante in catena DOS",
+      "category": "catene",
+      "description": "Tirante in catena grado 80 con ganci terminali.",
+      "image": "assets/products/tirante-in-catena-dos-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "DOS"
+        },
+        {
+          "label": "Bracci",
+          "value": "2"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "4:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/25d631-tipodos.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/tipodos.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [
+        {
+          "name": "DOS 7",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "7 mm"
+            }
+          ]
+        },
+        {
+          "name": "DOS 8",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "8 mm"
+            }
+          ]
+        },
+        {
+          "name": "DOS 10",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "10 mm"
+            }
+          ]
+        },
+        {
+          "name": "DOS 13",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "13 mm"
+            }
+          ]
+        },
+        {
+          "name": "DOS 16",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "16 mm"
+            }
+          ]
+        },
+        {
+          "name": "DOS 20",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "20 mm"
+            }
+          ]
+        },
+        {
+          "name": "DOS 22",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "22 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "tirante-in-catena-qos",
+      "slug": "tirante-in-catena-qos",
+      "name": "Tirante in catena QOS",
+      "category": "catene",
+      "description": "Tirante in catena grado 80 con ganci terminali.",
+      "image": "assets/products/tirante-in-catena-qos-photo.webp",
+      "imageNote": "Fotografia originale estratta dalla tavola di catalogo, senza modifiche al prodotto. Immagine rappresentativa del modello o della famiglia indicata; la scheda originale è disponibile nei documenti.",
+      "attributes": [
+        {
+          "label": "Tipo",
+          "value": "QOS"
+        },
+        {
+          "label": "Bracci",
+          "value": "4"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        },
+        {
+          "label": "Coefficiente documentato",
+          "value": "4:1"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/c159d4-tipoqos.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/Tipoqos.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [
+        {
+          "name": "QOS 7",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "7 mm"
+            }
+          ]
+        },
+        {
+          "name": "QOS 8",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "8 mm"
+            }
+          ]
+        },
+        {
+          "name": "QOS 10",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "10 mm"
+            }
+          ]
+        },
+        {
+          "name": "QOS 13",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "13 mm"
+            }
+          ]
+        },
+        {
+          "name": "QOS 16",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "16 mm"
+            }
+          ]
+        },
+        {
+          "name": "QOS 20",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "20 mm"
+            }
+          ]
+        },
+        {
+          "name": "QOS 22",
+          "attributes": [
+            {
+              "label": "Diametro catena",
+              "value": "22 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "catena-grado-80-n-336",
+      "slug": "catena-grado-80-n-336",
+      "name": "Catena grado 80 N-336",
+      "category": "catene",
+      "description": "Catena grado 80 per sistemi in catena grado 80.",
+      "image": "assets/products/0bcb65-catena.webp",
+      "imageNote": "Scheda tecnica originale con disegno e tabella delle dimensioni.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-336"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/0bcb65-catena.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/catena.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "maglia-di-giunzione-n-337",
+      "slug": "maglia-di-giunzione-n-337",
+      "name": "Maglia di giunzione N-337",
+      "category": "catene",
+      "description": "Maglia di giunzione per sistemi in catena grado 80.",
+      "image": "assets/products/7258f9-maglie-giunzione.webp",
+      "imageNote": "Scheda tecnica originale con disegno e tabella delle dimensioni.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-337"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "gancio-accorciatore-n-328",
+      "slug": "gancio-accorciatore-n-328",
+      "name": "Gancio accorciatore N-328",
+      "category": "catene",
+      "description": "Gancio accorciatore per sistemi in catena grado 80.",
+      "image": "assets/products/bd80ff-ganci-accorciatori.webp",
+      "imageNote": "Scheda tecnica originale con disegno e tabella delle dimensioni.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-328"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "gancio-per-fonderie-n-329",
+      "slug": "gancio-per-fonderie-n-329",
+      "name": "Gancio per fonderie N-329",
+      "category": "catene",
+      "description": "Gancio per fonderie per sistemi in catena grado 80.",
+      "image": "assets/products/3e787e-ganci-fonderie.webp",
+      "imageNote": "Scheda tecnica originale con disegno e tabella delle dimensioni.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-329"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "gancio-clevis-con-sicurezza-n-339",
+      "slug": "gancio-clevis-con-sicurezza-n-339",
+      "name": "Gancio Clevis con sicurezza N-339",
+      "category": "catene",
+      "description": "Gancio Clevis con sicurezza per sistemi in catena grado 80.",
+      "image": "assets/products/8619a2-ganci-clevis.webp",
+      "imageNote": "Scheda tecnica originale con disegno e tabella delle dimensioni.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-339"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "gancio-self-locking-clevis-n-341",
+      "slug": "gancio-self-locking-clevis-n-341",
+      "name": "Gancio Self-Locking Clevis N-341",
+      "category": "catene",
+      "description": "Gancio Self-Locking Clevis per sistemi in catena grado 80.",
+      "image": "assets/products/b6feae-ganci-self-locking-clevis.webp",
+      "imageNote": "Scheda tecnica originale con disegno e tabella delle dimensioni.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-341"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/b6feae-ganci-self-locking-clevis.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/ganci_self_locking_clevis.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "gancio-self-locking-ad-occhio-n-340",
+      "slug": "gancio-self-locking-ad-occhio-n-340",
+      "name": "Gancio Self-Locking ad occhio N-340",
+      "category": "catene",
+      "description": "Gancio Self-Locking ad occhio per sistemi in catena grado 80.",
+      "image": "assets/products/c8c38a-ganci-self-locking-occhio.webp",
+      "imageNote": "Scheda tecnica originale con disegno e tabella delle dimensioni.",
+      "attributes": [
+        {
+          "label": "Codice",
+          "value": "N-340"
+        },
+        {
+          "label": "Grado",
+          "value": "80"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/c8c38a-ganci-self-locking-occhio.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/ganci_self_locking_occhio.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [],
+      "gaps": []
+    },
+    {
+      "id": "tendicatena",
+      "slug": "tendicatena",
+      "name": "Tendicatena",
+      "category": "catene",
+      "description": "Tendicatena con manico per il tensionamento della catena.",
+      "image": "assets/products/c352c4-tendicatena.webp",
+      "imageNote": "Scheda originale con fotografia, disegno e varianti.",
+      "attributes": [],
+      "documents": [
+        {
+          "title": "Scheda originale del catalogo",
+          "url": "assets/products/c352c4-tendicatena.webp",
+          "sourceUrl": "https://www.nastritalia.it/images/tendicatena.jpg"
+        }
+      ],
+      "sourceUrl": "https://www.nastritalia.it/tiranti_accessori_e_catena.htm",
+      "variants": [
+        {
+          "name": "140-8",
+          "attributes": [
+            {
+              "label": "Catena",
+              "value": "8–10 mm"
+            }
+          ]
+        },
+        {
+          "name": "140-10",
+          "attributes": [
+            {
+              "label": "Catena",
+              "value": "10–13 mm"
+            }
+          ]
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "id": "componenti-per-linea-vita",
+      "slug": "componenti-per-linea-vita",
+      "name": "Componenti per linea vita",
+      "category": "linea-vita",
+      "description": "Soluzioni per l’installazione di una linea vita. La fonte non riporta modelli, misure o documentazione tecnica: richiedere una configurazione specifica.",
+      "image": "assets/products/9cf6a2-linea-vita.webp",
+      "imageNote": "Illustrazione originale dell’applicazione; non identifica un kit o un modello commerciale.",
+      "attributes": [
+        {
+          "label": "Impiego",
+          "value": "Installazione linea vita"
+        }
+      ],
+      "documents": [],
+      "sourceUrl": "https://www.nastritalia.it/linea_vita.htm",
+      "variants": [],
+      "gaps": [
+        "Nessun modello, attributo di portata o certificazione disponibile nella fonte."
+      ]
+    }
+  ]
+}
